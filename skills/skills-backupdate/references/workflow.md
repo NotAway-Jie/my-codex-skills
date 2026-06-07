@@ -50,3 +50,20 @@ python scripts\install_skills.py --repo-dir . --target-skills-root "$env:USERPRO
 ```
 
 The install script backs up conflicting target skill folders and never deletes target-only skills.
+
+## Pull and Apply Mode
+
+For a cloned `my-codex-skills` repository on another computer, use:
+
+```powershell
+python scripts\sync_skills.py pull --repo-dir .
+python scripts\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\.codex\skills"
+```
+
+`apply` defaults to a dry-run. To write changes after reviewing the plan:
+
+```powershell
+python scripts\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\.codex\skills" --confirm
+```
+
+The mode uses `git pull --ff-only`, so it stops instead of creating merge commits when the local backup repo has divergent commits.

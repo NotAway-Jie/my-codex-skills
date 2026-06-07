@@ -102,6 +102,22 @@ python scripts\\install_skills.py --repo-dir . --target-skills-root "$env:USERPR
 ```
 
 The installer backs up conflicting target skill folders and does not delete local-only skills.
+
+## Pull and Apply
+
+After the repo is cloned, preview the latest backup on another computer with:
+
+```powershell
+python scripts\\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\\.codex\\skills"
+```
+
+This command runs `git pull --ff-only` and then dry-runs the installer.
+
+To write changes after reviewing the plan:
+
+```powershell
+python scripts\\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\\.codex\\skills" --confirm
+```
 """
 
 
@@ -142,6 +158,7 @@ def main() -> int:
         scripts_dir.mkdir(parents=True, exist_ok=True)
         shutil.copy2(Path(__file__).with_name("install_skills.py"), scripts_dir / "install_skills.py")
         shutil.copy2(Path(__file__).with_name("scan_skills.py"), scripts_dir / "scan_skills.py")
+        shutil.copy2(Path(__file__).with_name("sync_skills.py"), scripts_dir / "sync_skills.py")
         shutil.copy2(Path(__file__), scripts_dir / "prepare_sync.py")
 
     print(risk_summary(data))

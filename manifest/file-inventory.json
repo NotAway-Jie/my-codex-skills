@@ -3557,11 +3557,11 @@
   {
     "skill": "skills-backupdate",
     "path": "references/workflow.md",
-    "size": 1773,
-    "mtime": "2026-06-07T12:28:38.947753+00:00",
+    "size": 2376,
+    "mtime": "2026-06-07T12:51:31.834723+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "d0c5a95c69aba65f050fe0c21e78a77c1f8e4e6897b386ffc7d3c1861bc8f99d"
+    "sha256": "8ace7e168714bd2ee1fe63caeee0771b7bf525403942368ed60f25b003f3f57e"
   },
   {
     "skill": "skills-backupdate",
@@ -3575,11 +3575,11 @@
   {
     "skill": "skills-backupdate",
     "path": "scripts/prepare_sync.py",
-    "size": 6174,
-    "mtime": "2026-06-07T12:32:35.942460+00:00",
+    "size": 6746,
+    "mtime": "2026-06-07T12:51:54.152544+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "d3c1cea21ae15e6452c28f556b0c6c95bf383e17e43f147262a647d35fc66ee6"
+    "sha256": "8a8bb3b16e0126b1de5e007d505836374cf3c86a6f0f463d5e13ddd5595005a9"
   },
   {
     "skill": "skills-backupdate",
@@ -3592,11 +3592,20 @@
   },
   {
     "skill": "skills-backupdate",
-    "path": "SKILL.md",
-    "size": 3549,
-    "mtime": "2026-06-07T12:28:38.623274+00:00",
+    "path": "scripts/sync_skills.py",
+    "size": 2831,
+    "mtime": "2026-06-07T12:53:06.770442+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "6d76ec9e2cc47f61ec1a8f80640069fa3051f23bc7e5976622ea7a870f2c77b7"
+    "sha256": "1f20fb8d53c1928fedf7c6118d7c49a20af6b9d438cb1f90462746b4f89a655b"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "SKILL.md",
+    "size": 4075,
+    "mtime": "2026-06-07T12:51:31.492345+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e11dda86b029ddaecfe7641cdf45703a0aff61f7fd9eb4c0646ebc5355e1268b"
   }
 ]

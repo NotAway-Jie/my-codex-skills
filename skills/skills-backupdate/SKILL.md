@@ -40,6 +40,18 @@ The command creates or refreshes a local repo-shaped folder with:
 - `manifest/skills-manifest.json` and `manifest/file-inventory.json` for incremental review.
 - `scripts/install_skills.py` for dry-run and install on another computer.
 
+For another computer that already cloned the repo, pull and preview installation:
+
+```powershell
+python scripts\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\.codex\skills"
+```
+
+To actually apply after reviewing the dry-run:
+
+```powershell
+python scripts\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\.codex\skills" --confirm
+```
+
 ## Workflow
 
 1. Run `scripts/prepare_sync.py` in dry-run or normal mode.
@@ -55,5 +67,6 @@ The command creates or refreshes a local repo-shaped folder with:
 - `scripts/scan_skills.py`: scan personal skills, summarize `SKILL.md`, detect GitHub source hints, hash allowed files, and flag skipped/suspicious files.
 - `scripts/prepare_sync.py`: build the local repository structure and copy safe skill files.
 - `scripts/install_skills.py`: install backed-up skills onto another computer with `--dry-run` and backup-before-overwrite behavior.
+- `scripts/sync_skills.py`: pull the GitHub backup repository and optionally apply skills; defaults to dry-run unless `--confirm` is passed.
 
 For detailed operating guidance, read `references/workflow.md` only when needed.
