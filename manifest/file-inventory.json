@@ -1,0 +1,3602 @@
+[
+  {
+    "skill": "brainstorming",
+    "path": "scripts/frame-template.html",
+    "size": 7917,
+    "mtime": "2026-06-07T11:10:22.430059+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7c3a788b6fe3f66c4e87db0e756f0f60bce14d58585e3fc6a8d835cde701bfad"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "scripts/helper.js",
+    "size": 2707,
+    "mtime": "2026-06-07T11:10:22.436971+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e763d82f32b4ebb320be2f0d08449d3e5a0585778edf5c407c1fdab3f39976a5"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "scripts/server.cjs",
+    "size": 11572,
+    "mtime": "2026-06-07T11:10:22.442129+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4b951e038fdf624b4b2b4afa9ea4eec0c49a0fea253ed9c5e305b57eb3be495d"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "scripts/start-server.sh",
+    "size": 4606,
+    "mtime": "2026-06-07T11:10:22.446743+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3442a54b5ee5511637d27bf696e092b72f94c2324f40b5ba4410da4dd0c23bc8"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "scripts/stop-server.sh",
+    "size": 1314,
+    "mtime": "2026-06-07T11:10:22.452703+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f65b7634a27343eab2086bdb6c59ba78695685f471b5a577b08a8817f7c50600"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "SKILL.md",
+    "size": 10634,
+    "mtime": "2026-06-07T11:10:22.417755+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bba47904a7f6bbee3bf8a107ebbe84e65d392be683bbb898ded736b29e415f90"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "spec-document-reviewer-prompt.md",
+    "size": 1748,
+    "mtime": "2026-06-07T11:10:22.458954+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "12cb5ed58aef41b8da6fbb505547c71ca3f5658c83b66ca6e556c936308b3189"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "visual-companion.md",
+    "size": 12047,
+    "mtime": "2026-06-07T11:10:22.461796+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a2bc6fc47d0df1df981d02f707a16225b147f462e7059175ad2bc5e6dd29fcae"
+  },
+  {
+    "skill": "find-skills",
+    "path": "SKILL.md",
+    "size": 5588,
+    "mtime": "2026-06-07T11:10:25.645123+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5df70a7a474aaed217246277e17882e3eb9025077189026dfb028a713b480926"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "data-in-motion.md",
+    "size": 1296,
+    "mtime": "2026-06-07T11:11:10.487197+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "22084b4460a8f815d923b972a908f937c1e573bbbc7a865f6f2979ec2ae7ff15"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "house-style.md",
+    "size": 5097,
+    "mtime": "2026-06-07T11:11:10.489398+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "87998bceff74ed6fb017db5b6b87c2df19972a07bb4a3cbb28618da823ff54de"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/bold-energetic.md",
+    "size": 417,
+    "mtime": "2026-06-07T11:11:10.493306+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "17bc6b7889302151b4e5c84c0c6a33df676647078011d9decb2b68810e3baa7f"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/clean-corporate.md",
+    "size": 410,
+    "mtime": "2026-06-07T11:11:10.495709+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d0c8c86838abb77985609629afe600d0ca365eccd835820f309959e8a85cba9d"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/dark-premium.md",
+    "size": 389,
+    "mtime": "2026-06-07T11:11:10.498039+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "abfecbf7e8dca3b674376590a0467aac3e13b2135022ae4ec519c4b27c2303b1"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/jewel-rich.md",
+    "size": 394,
+    "mtime": "2026-06-07T11:11:10.500867+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "17c8f7506469f66bca4e27ef78c19f0bcbf250f88fe840e3043816b7041c4fc5"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/monochrome.md",
+    "size": 454,
+    "mtime": "2026-06-07T11:11:10.501878+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fe8586f6d70707098859063bdef34d68084f02cf7d5aaa436d4c9915a7ae3748"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/nature-earth.md",
+    "size": 399,
+    "mtime": "2026-06-07T11:11:10.502877+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9710549b17487787fef3c7cb459cfd6e4ac28c1593bf471fcf55a3b4e546beed"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/neon-electric.md",
+    "size": 380,
+    "mtime": "2026-06-07T11:11:10.503875+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "35225bf8d2cd37223e88e0bc59b0a96bc8adeda7225389b3df97b675cfd33dfb"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/pastel-soft.md",
+    "size": 392,
+    "mtime": "2026-06-07T11:11:10.506937+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ed4e25bb5f4953c002e55a53320249621437e03b5a11d43e3c1bd32c869b6d95"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "palettes/warm-editorial.md",
+    "size": 411,
+    "mtime": "2026-06-07T11:11:10.508231+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c467ee3cc0bbf4b2bedccc8106e18293b8a06dbac8f092b10300492da0e0559a"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "patterns.md",
+    "size": 5539,
+    "mtime": "2026-06-07T11:11:10.510345+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6872af2ed72083340fc25f23f08b7fabfcd9fd99c1e1b5aa84027779210fcba5"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/audio-reactive.md",
+    "size": 3064,
+    "mtime": "2026-06-07T11:11:10.513472+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f0d83c24fa40d42a74f972ccf3b5254d7706cb063d16b8b41f87dc668a418f49"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/beat-direction.md",
+    "size": 13804,
+    "mtime": "2026-06-07T11:11:10.515121+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "26459670fd0a62512c25789167094d0e69d04b257aee37d8591e1b3c417ddae2"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/captions.md",
+    "size": 7880,
+    "mtime": "2026-06-07T11:11:10.517270+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c3a120bd1000fb8dd43da72da9a16b36d5381f4d2fe605ed9d63b1513116e4bd"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/css-patterns.md",
+    "size": 8312,
+    "mtime": "2026-06-07T11:11:10.520097+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "39c4af128cdd3ed9d1be652a88c3e4d01cb0daf744dfde3db7197014cd1a38d8"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/design-picker.md",
+    "size": 12209,
+    "mtime": "2026-06-07T11:11:10.521785+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e529493473443dc729d9b79b8d8ba31d38482f3b5e300df7f577b997d65375a2"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/dynamic-techniques.md",
+    "size": 7846,
+    "mtime": "2026-06-07T11:11:10.524121+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1a72b7b6f94ac59e58dbc949c3454161fcfdd0aa1818d1e9c21ec472ddc56662"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/html-in-canvas-patterns.md",
+    "size": 17166,
+    "mtime": "2026-06-07T11:11:10.525136+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5e7c801c65d8f34f38c535bc9ed6808ebb6f475f166347bf71a453eb87614e9a"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/motion-principles.md",
+    "size": 11581,
+    "mtime": "2026-06-07T11:11:10.527671+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "18ff430666d83833fca25b45e42606b0ab64fbaf91c9b91ba7ce74624cf6acfb"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/narration.md",
+    "size": 3482,
+    "mtime": "2026-06-07T11:11:10.530182+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6002bb2a2270149a8955068d5952fc57cd22594649f576b3e8c38057846610b6"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/prompt-expansion.md",
+    "size": 5777,
+    "mtime": "2026-06-07T11:11:10.533203+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "734686e2bcf98e5b77ee1fe7bbc7ad34be0b83017680fe80dc1ee3e0b941e1de"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/techniques.md",
+    "size": 20836,
+    "mtime": "2026-06-07T11:11:10.535196+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0038264769a32ee0b3799fceb475de646d339cf1bc55c950c6fbe08c85fdddf7"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/text-effects.md",
+    "size": 4064,
+    "mtime": "2026-06-07T11:11:10.537724+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "69c6da156c060f977a908fe361b3e6fac877c9ba95fd9921c74077c4f70fa051"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transcript-guide.md",
+    "size": 5864,
+    "mtime": "2026-06-07T11:11:10.539723+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7f0176536bc5620962efd48d5643ab556b50590b9730ffe0fd6234bfb24ea566"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/catalog.md",
+    "size": 6290,
+    "mtime": "2026-06-07T11:11:10.544615+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "557b5b30be7b68f95d8481209b1a2f0a0e1df23f65de9b08f86697d0e6159a54"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-3d.md",
+    "size": 421,
+    "mtime": "2026-06-07T11:11:10.548153+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e1c3888dd0a2d4b36d25200c1e5ef9038649ae63953865e4b2c4c40fb028d7dd"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-blur.md",
+    "size": 1787,
+    "mtime": "2026-06-07T11:11:10.550169+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fd3eef889a517e1dd985ca816f36f1abfb43420a4b664d4fcc453554cdf561f9"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-cover.md",
+    "size": 1448,
+    "mtime": "2026-06-07T11:11:10.552634+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ba4e5926791c9e6a0a069e20afc91324acb018903f43b4b3f2866d9654f5b7eb"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-destruction.md",
+    "size": 4484,
+    "mtime": "2026-06-07T11:11:10.556767+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7cce7bbd9ebc64176c9ff4fe40ec97273c9c171524d89f853c0651e713949361"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-dissolve.md",
+    "size": 2462,
+    "mtime": "2026-06-07T11:11:10.559659+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "47c11ca0a715675c2788aa4a162a652b5dc5f1773b058ea93e9907af56a4eb7c"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-distortion.md",
+    "size": 1803,
+    "mtime": "2026-06-07T11:11:10.562853+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7140650692926959bd5459ca5c478a9b4f137cc76fb92b9138e3b0d353677c06"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-grid.md",
+    "size": 370,
+    "mtime": "2026-06-07T11:11:10.565158+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c62b17058aa7ba42d34df29436b6b4233e47ff2b72f2c7ce0963c75bdec45144"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-light.md",
+    "size": 2376,
+    "mtime": "2026-06-07T11:11:10.567239+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "53f0422d3f6dd2584a30501f84e4f09c9b515f605d51ed264a2061567dda15db"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-mechanical.md",
+    "size": 1613,
+    "mtime": "2026-06-07T11:11:10.568916+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4fed48fa659a4b215a996beeea619d244e6c893700178b1f969c17f2ee0a8612"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-other.md",
+    "size": 838,
+    "mtime": "2026-06-07T11:11:10.571109+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2156e4fcc3b42cba9e0d9e268944269057fb48ff15fc1983e3ff9386fa2a8cf8"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-push.md",
+    "size": 1195,
+    "mtime": "2026-06-07T11:11:10.573066+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d526a9612483472de4d865ae27061c98842a5155973dd0cec37fac4998dc1b97"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-radial.md",
+    "size": 1060,
+    "mtime": "2026-06-07T11:11:10.575371+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5d8f20de439e3f2c8d45df11c8acbe31dc1b9342e2d54bbe66b451cf81ca0a1b"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions/css-scale.md",
+    "size": 715,
+    "mtime": "2026-06-07T11:11:10.577034+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3c0cb33d6c844a7265379225f3241d8964afcc908ee757a1ebfb1700a5320ea7"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/transitions.md",
+    "size": 12845,
+    "mtime": "2026-06-07T11:11:10.541723+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f98eed0c034cfc2e2ddd5647f224f64c2fdc1fe6809ccfce2a90689ec9e6024d"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/typography.md",
+    "size": 9326,
+    "mtime": "2026-06-07T11:11:10.579337+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d0ef1c5666a5b7a5f2af0c5701d17e63017eafc07499830c6616ccdcb21befc8"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "references/video-composition.md",
+    "size": 3704,
+    "mtime": "2026-06-07T11:11:10.582079+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7e9e618f3e712f87af6cf44074c9aab3aa709045fd8d9da21c00a8c2a42126ae"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "scripts/animation-map.mjs",
+    "size": 19405,
+    "mtime": "2026-06-07T11:11:10.586097+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "eacb3cc40fbabadd66b673d145f2423996abdfc398c62275cbadf677065bb215"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "scripts/contrast-report.mjs",
+    "size": 12574,
+    "mtime": "2026-06-07T11:11:10.588353+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "81c656a9acd23b239eb0b9c8a1da654a37282a06e28d2ed4987b436bf3d4ee20"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "scripts/package-loader.mjs",
+    "size": 8328,
+    "mtime": "2026-06-07T11:11:10.590613+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "278067c09711a20c014f5e8d2e5a358c42a5d49b054503516a693a37b9829ad6"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "SKILL.md",
+    "size": 31566,
+    "mtime": "2026-06-07T11:11:10.483890+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "62f6ec3fbcb968dda66349ceca88b3578df2088cdb5d946b1de5fbe6d5f9e04c"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "templates/design-picker.html",
+    "size": 44098,
+    "mtime": "2026-06-07T11:11:10.594412+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c417139fef8e21b34d56a85cedda8b9597c9574e0727ce603a4743c4ee592c1a"
+  },
+  {
+    "skill": "hyperframes",
+    "path": "visual-styles.md",
+    "size": 11765,
+    "mtime": "2026-06-07T11:11:10.596617+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2f2e185a6e3480ab9187071c5cda22295088f6f2a727ec373c13823c23b14859"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "config/mcp-snippet.json",
+    "size": 527,
+    "mtime": "2026-06-07T11:17:21.763704+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b2e39f3a7ab529ac105a63176391f45a15dd9787095535c767d68febb91a91a9"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "config/settings-snippet.json",
+    "size": 64,
+    "mtime": "2026-06-07T11:17:21.764706+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "228c81e413bef00d6dc262a3b68e948025f198b683c2dd82644199c8c6ed19ae"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "config/triggers-academic-search.toml",
+    "size": 481,
+    "mtime": "2026-06-07T11:17:21.766701+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "152fa8f0c2bcea011817c67769aecff39066239f9b65c18f8bf7139888997076"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "install.sh",
+    "size": 3804,
+    "mtime": "2026-06-07T11:17:21.767215+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "46fbc84c4d689d22f587e7c083b64035ee306c5eb727d2f1c907ad8ad25528d5"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "manifest.yaml",
+    "size": 2779,
+    "mtime": "2026-06-07T11:17:21.769222+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "401dcd28b021c6434a44c3d86831534e47892bbb1d8cc9cdc0452183a99842a2"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/academic_search_server.py",
+    "size": 21932,
+    "mtime": "2026-06-07T11:17:21.774384+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "69e249350dc8056ebe4441fbea172a6dcd8fecae1c2c0f6cf8f5810101bc1ea1"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/config.toml",
+    "size": 265,
+    "mtime": "2026-06-07T11:17:21.775383+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "45298e7dcfb7e9126548c40964be6d51ed5115a4cc8da155837cca2b19477b81"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/README.md",
+    "size": 1903,
+    "mtime": "2026-06-07T11:17:21.771395+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4754c016cc3e5c30e83254a03f0e3e795884cc58da497efc882a61d4174fd45b"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/requirements.txt",
+    "size": 114,
+    "mtime": "2026-06-07T11:17:21.777915+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d5feda560e018a9a26eee2c9d024b33a262cae8ad6e87a475424ea022bf57280"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/__init__.py",
+    "size": 367,
+    "mtime": "2026-06-07T11:17:21.780912+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "700da48024c6010a647dbd25b0f14e6dd573d48fc79561bb3906eb0d43b81456"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/arxiv.py",
+    "size": 11694,
+    "mtime": "2026-06-07T11:17:21.781910+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a1303faa7ac87636e04a104cb04e8a14e4012c8e458d2a4fddf2dbd7f990a65c"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/crossref.py",
+    "size": 7199,
+    "mtime": "2026-06-07T11:17:21.783914+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "41e1b89df3ff6478a0801ea81d39b4693fa89f1bd2acc8d35e4ca5f059d12a10"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/elsevier_common.py",
+    "size": 2580,
+    "mtime": "2026-06-07T11:17:21.784910+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "51e7a852ff91a18880e9572ad452425d07625adc65ae293737e1e11c18c443b5"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/pubmed.py",
+    "size": 11623,
+    "mtime": "2026-06-07T11:17:21.786909+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b0994f095f7febc5c2ebe502ccf945019d2b0dd5f4090110958a046ab5c4bb22"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/sciencedirect.py",
+    "size": 7273,
+    "mtime": "2026-06-07T11:17:21.789334+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "848c3b72ec6856eeb34efd26fe800653e087d89aefdc8eaad3cfb4f29b8ad736"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/sources/scopus.py",
+    "size": 19829,
+    "mtime": "2026-06-07T11:17:21.790339+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bbef2d79fcdc6eb2f37757e8bd5b5b12ac1b9045f3139b5f8638107a254d2307"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/tests/__init__.py",
+    "size": 41,
+    "mtime": "2026-06-07T11:17:21.792337+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b95c46deff65b7010b82c3962bce97931d8e999a80063b61bb2b5edfef29b2ba"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/tests/test_elsevier_live.py",
+    "size": 2727,
+    "mtime": "2026-06-07T11:17:21.793330+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "95916c1f7830b88ef59dbc31c6e265010f3b4cb75366e2bd1ee7daaffa192ca7"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/tests/test_mcp_tools.py",
+    "size": 2794,
+    "mtime": "2026-06-07T11:17:21.794330+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "958d7a971f48f768871a1862a161508e226a6b7a157258f122178ddc99e73e52"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/tests/test_sources.py",
+    "size": 27281,
+    "mtime": "2026-06-07T11:17:21.795329+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9a2477045b8bcdbca034491cd2b82f4cda40c9f3bb2334d19d845a2689b0e951"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/utils/__init__.py",
+    "size": 374,
+    "mtime": "2026-06-07T11:17:21.797872+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5731e5d62ff93a0f637bf43684fd23caa20db841341c1859adb9436632a66ded"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/utils/config.py",
+    "size": 1450,
+    "mtime": "2026-06-07T11:17:21.798874+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "cb5a9f5d395cf6ce3ce54dca366cf49d9856a579c31a09444291c62bcc7bc5f9"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/utils/errors.py",
+    "size": 642,
+    "mtime": "2026-06-07T11:17:21.799873+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a00acd614bc4a1b2bda855764ec927bafb786880d85368683059d3b2a874eeee"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "mcp-server/utils/logging.py",
+    "size": 1198,
+    "mtime": "2026-06-07T11:17:21.800870+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "15f0b8d99bb265f81f922b507e8a7b9691d7f90b81c6f847c9befdcaf9ba9c0f"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "README.md",
+    "size": 2269,
+    "mtime": "2026-06-07T11:17:21.760698+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "730350b4d506a5806a58e74a7fc1b913d331793532c32d25b1f67620bba2c763"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/citation-parser.md",
+    "size": 2781,
+    "mtime": "2026-06-07T11:17:21.802382+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "173a5a85e6f0c5ff51888bfc9e97dd0017140fd2e05ed9c13514d92197664945"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/dedup-engine.md",
+    "size": 1990,
+    "mtime": "2026-06-07T11:17:21.803809+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4183f9e44d136bb60f256c577345a00f0ce447c844b174fe1f5d439884bf8491"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/pubmed-28344011.bib",
+    "size": 3410,
+    "mtime": "2026-06-07T11:17:21.806820+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "476340d7ac4bb4bc850bfb82e3c6fbe33e479f0089663321da0e091987a98ac1"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/pubmed-28344011.nbib",
+    "size": 12205,
+    "mtime": "2026-06-07T11:17:21.808342+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1705f5869235a3486dfc259db66611617045d814dd0c8f2751ec7a9f879a65c4"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/pubmed-28344011.ris",
+    "size": 3513,
+    "mtime": "2026-06-07T11:17:21.810346+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "62e55bea966681ef054a96d642ab135501056483b5994023967c3f033f41e2d8"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/ris-bibtex-format.md",
+    "size": 4542,
+    "mtime": "2026-06-07T11:17:21.812351+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d1075639d0fb1902035f8ffbc9d2022a68c5db5fe00b1bada87cc8b311255112"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/search-strategy.md",
+    "size": 2121,
+    "mtime": "2026-06-07T11:17:21.813350+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f6af1f9fd7b54bea8d51b6c51623096d61db19445a3795e15da38323e196f0cb"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/source-tiers.md",
+    "size": 2806,
+    "mtime": "2026-06-07T11:17:21.815341+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3cf0e1e902d4c2c95adbad1a07860d23ef9b02c40b9c4c7c1c4b1c68ec24dcea"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/workflows/wf1-multi-source-search.md",
+    "size": 1950,
+    "mtime": "2026-06-07T11:17:21.816852+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a774af77e7a4ea4b418a02f3fa96ca47ba08b0a2b7ce5252c47b020ddd0b229c"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/workflows/wf2-citation-verification.md",
+    "size": 1679,
+    "mtime": "2026-06-07T11:17:21.818882+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "18b847cc2d2c4edbcd63f0ac9abebc1b10298aa9051b4db2e96a1649f2da2f33"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/workflows/wf3-mesh-strategy.md",
+    "size": 554,
+    "mtime": "2026-06-07T11:17:21.820881+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "abb4ee5cb189b11a6efd08fef0d9c6bec924c2738760e951cf329e4f22afcbba"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/workflows/wf4-citation-file-mgmt.md",
+    "size": 1480,
+    "mtime": "2026-06-07T11:17:21.823407+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "80c995afdae6d295087e5220d0bfc69b62c1e87551deb83109bf4b2100f1c204"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "references/workflows/wf5-reference-mgmt.md",
+    "size": 1371,
+    "mtime": "2026-06-07T11:17:21.825412+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b070bf2fa3ab8d613c9b66db6f959f193801e4f918b18b6865b6fad2036764fb"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "scripts/academic_search.py",
+    "size": 21370,
+    "mtime": "2026-06-07T11:17:21.827934+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "48a749c71f66ab000bf28795fc7e2388b26e5c22d7c0eb0500b8fc7f5d13a96f"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "scripts/converters.py",
+    "size": 19099,
+    "mtime": "2026-06-07T11:17:21.828941+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "25155cd7070e34f344b20c7841c22918f1733b1cd95b5cf4ca51899728692d6d"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "scripts/format-converter.py",
+    "size": 19573,
+    "mtime": "2026-06-07T11:17:21.830941+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8c424ce929c57841bb955943341e2b01d6d68eb49988d0fecee5fcc6b345d224"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "scripts/preflight.py",
+    "size": 3901,
+    "mtime": "2026-06-07T11:17:21.831941+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6c7e09e893ffd66687b8db2d00db17c828e2ae0aa26fde7caa86eb413af4b78a"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "SKILL.md",
+    "size": 4693,
+    "mtime": "2026-06-07T11:17:21.761705+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c10243712e1b257e40f0f9c8da2f79012d3c98b5a7273e5285aee8fcfd4e847f"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "static/core/routing-and-ops.md",
+    "size": 5074,
+    "mtime": "2026-06-07T11:17:21.834948+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4898779a87f60e4cf71fd429c22bce43afe2b4ec0c15cd19ccc999268a451cae"
+  },
+  {
+    "skill": "nature-academic-search",
+    "path": "static/core/tools.md",
+    "size": 3101,
+    "mtime": "2026-06-07T11:17:21.838476+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2c7f845cc84e7ce2fcbdb83cdf3158cfde7b516003b318903ad66e4925ee57d1"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "evals/evals.json",
+    "size": 1883,
+    "mtime": "2026-06-07T11:17:21.848157+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "17c98f1aa2831f22c348045871080976e1b77a5cf21db0c3c76e4f53987f6ea1"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "manifest.yaml",
+    "size": 1675,
+    "mtime": "2026-06-07T11:17:21.849157+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "13631dc4713b6ccfce018ef2049f1d732ec247fce7bb6ce49da47830fc0c244b"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "README.md",
+    "size": 5671,
+    "mtime": "2026-06-07T11:17:21.841472+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e0a710d2d960b83dd873d5dbc8c1f06161bbea800ea5ee88438938055458b54b"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "references/journal-scope.md",
+    "size": 2217,
+    "mtime": "2026-06-07T11:17:21.854152+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9df135893a082e3b482e073c8c19fc54f68449f6c5c1761c7279a052a3ebc558"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "references/ris-endnote.md",
+    "size": 2145,
+    "mtime": "2026-06-07T11:17:21.856668+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "058c4da074bde1442dd75cb849875cc1b086530e179db71a51ab1d2fe760f76a"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "references/script-usage.md",
+    "size": 3327,
+    "mtime": "2026-06-07T11:17:21.857683+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2758d5d2134aa2dd5a661f4d91bee46890c8e6a08c9e6cf515b15e812932cb2a"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "references/search-strategy.md",
+    "size": 3014,
+    "mtime": "2026-06-07T11:17:21.859689+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5c6223f597c9d0cf067ef66bcc8594313bdee5c6bd120262b514b949dffa4029"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "scripts/nature_citation.py",
+    "size": 72632,
+    "mtime": "2026-06-07T11:17:21.864678+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "467c2d4e1265fc162b53ac3eb10ca2437da4f420c1bb86bbb79a2faa3c3eb2ff"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "SKILL.md",
+    "size": 4760,
+    "mtime": "2026-06-07T11:17:21.842977+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e80c86d2e1a225b170217a6710d04dcba16d8836f42e1cf6d11210f64f27f7a3"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "static/core/chinese-mode.md",
+    "size": 776,
+    "mtime": "2026-06-07T11:17:21.868187+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5df2c4f8908fb7eff8d334abd7d6b9be4af404dd5689b948d57696a1d1d8778b"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "static/core/principles.md",
+    "size": 3122,
+    "mtime": "2026-06-07T11:17:21.870197+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a736171e27cddbe491c4733b876020af6c7a9573e915d437ad42790b61e24815"
+  },
+  {
+    "skill": "nature-citation",
+    "path": "static/core/workflow.md",
+    "size": 5556,
+    "mtime": "2026-06-07T11:17:21.872201+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8c4eee4605b79dc584fc70858f1ead8d7c47f03ac75ec9f0020e9fc92f12c4bb"
+  },
+  {
+    "skill": "nature-data",
+    "path": "agents/openai.yaml",
+    "size": 274,
+    "mtime": "2026-06-07T11:17:21.878727+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "dfed0b3fdfb58727169f77930cf0ce2f4e76dcc30289e0960859e827d9168e27"
+  },
+  {
+    "skill": "nature-data",
+    "path": "manifest.yaml",
+    "size": 1801,
+    "mtime": "2026-06-07T11:17:21.879732+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e9b46effaf9b2a327152b1a7ce9e7a585f1b0ab832dedb0b7c2c3571309cf073"
+  },
+  {
+    "skill": "nature-data",
+    "path": "README.md",
+    "size": 3410,
+    "mtime": "2026-06-07T11:17:21.875200+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "605b13e2fb4af55d3f11463dfc8bc6c06ee3d2f6f12ff8ef10033b68d2241887"
+  },
+  {
+    "skill": "nature-data",
+    "path": "references/chinese-author-alignment.md",
+    "size": 5094,
+    "mtime": "2026-06-07T11:17:21.881727+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6b9c89ed693fc18921e92c9ea3038083461ac7ff34c0e303b7b4491fe677307b"
+  },
+  {
+    "skill": "nature-data",
+    "path": "references/fair-metadata-checklist.md",
+    "size": 4181,
+    "mtime": "2026-06-07T11:17:21.883738+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c00ba1694f60175ee07aeb99a681fd1db4e456fd7ed29de8b928bc95c15c8a1a"
+  },
+  {
+    "skill": "nature-data",
+    "path": "references/policy-principles.md",
+    "size": 5408,
+    "mtime": "2026-06-07T11:17:21.885589+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "56ccef948f5793cd2ddfe86b8cf0a6f4eeb04a1a324a01c80111633105ce979b"
+  },
+  {
+    "skill": "nature-data",
+    "path": "references/repository-and-identifiers.md",
+    "size": 4486,
+    "mtime": "2026-06-07T11:17:21.887764+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c6113d8052411cf89129d3b8514406bafc7d08c60a20a56d2c2b140719768aef"
+  },
+  {
+    "skill": "nature-data",
+    "path": "references/source-basis.md",
+    "size": 5445,
+    "mtime": "2026-06-07T11:17:21.889443+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fed65fcbd513824cef6ee98386e0f9c374e20b6b5e3d62fad4249d930bd8e908"
+  },
+  {
+    "skill": "nature-data",
+    "path": "references/statement-patterns.md",
+    "size": 7346,
+    "mtime": "2026-06-07T11:17:21.891838+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b63bad2ee69dd939bf8aa0c84cec110975325b46abb88b527f4a29c26b1a17f1"
+  },
+  {
+    "skill": "nature-data",
+    "path": "SKILL.md",
+    "size": 4704,
+    "mtime": "2026-06-07T11:17:21.876712+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b870bed22079bf65159bc1e27a65baf03f218de97b6281201be08d90f2f1275b"
+  },
+  {
+    "skill": "nature-data",
+    "path": "static/core/chinese-mode.md",
+    "size": 1203,
+    "mtime": "2026-06-07T11:17:21.894066+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9c7a31e1a96aa80f66fa26f5acf6880403a47f9117f574909970d66088588982"
+  },
+  {
+    "skill": "nature-data",
+    "path": "static/core/stance.md",
+    "size": 1937,
+    "mtime": "2026-06-07T11:17:21.895304+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "103b77faed1d5f66a71c7bfcf306a6eecd68c4c500a30b5391052b43783079a9"
+  },
+  {
+    "skill": "nature-data",
+    "path": "static/core/workflow.md",
+    "size": 1596,
+    "mtime": "2026-06-07T11:17:21.895304+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a32f2f9be3f897b42f52199cea50cc7b459b5db4d36f775fa4e9c0016a49666b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": ".gitignore",
+    "size": 11,
+    "mtime": "2026-06-07T11:17:21.897837+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e48d69406979f6930a9a6135f795c482d5b78aaa99cce6b317ab40786ff41ecb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-01-bar-charts.png",
+    "size": 125370,
+    "mtime": "2026-06-07T11:17:21.907918+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "4a0e3040bbdbfe5ec48b66515f719f83ad7304fadb2e56432cd3e8f7ccbabd65"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-02-line-trends.png",
+    "size": 423651,
+    "mtime": "2026-06-07T11:17:21.915005+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "9a8189149180a68679738bc4be152ee40b17d71261d71b3759d315a7169da0d9"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-03-heatmaps.png",
+    "size": 159834,
+    "mtime": "2026-06-07T11:17:21.918518+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "40dd7c7c14c45b45cc22ee23e19f2dc1901f38b26a1fb4b0f26a30dbd10c0423"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-04-scatter-bubble.png",
+    "size": 485091,
+    "mtime": "2026-06-07T11:17:21.924533+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "1bbfbc38a3f246e4fd7c59b9ed1003ddbc7280ee160b7c38abf8d410b27fe6f8"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-05-radar-polar.png",
+    "size": 630054,
+    "mtime": "2026-06-07T11:17:21.934071+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "e7fa7d98cd4f5263f5550d7ac8824e60071c20b2927aef52ac6d18d62fd29ffa"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-06-distributions.png",
+    "size": 233827,
+    "mtime": "2026-06-07T11:17:21.938594+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "a1fe533d07dae36d11c997577ded61adb16bf5d4dd5c0dee2ff92ae570f0f01e"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-07-forest-interval.png",
+    "size": 270166,
+    "mtime": "2026-06-07T11:17:21.945544+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "dc61a5257eae4748348c72c51f2e70e59979c6892f52dadf7bb4ba6f8b98b00b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-08-area-stacked.png",
+    "size": 334735,
+    "mtime": "2026-06-07T11:17:21.952065+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "350c25e427d945dee5fd98316eb6ebe307304b9d187d954a88c05852d664a60b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-09-image-plates.png",
+    "size": 359027,
+    "mtime": "2026-06-07T11:17:21.958592+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "bbc8c0b8708d42465e57cb7c56b4d2ecfbaa63340a5a6dfefbcb51189cd1a995"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/chart-atlas/atlas-10-network-matrix.png",
+    "size": 312125,
+    "mtime": "2026-06-07T11:17:21.964675+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "cd384abe10aa86bd310c1288a42f33735cb555c267bddae1ecd262905a7a1de5"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/Dispersion_motivation.png",
+    "size": 837657,
+    "mtime": "2026-06-07T11:17:21.976610+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "04c2f6ab2bedf8e6a19449f0260ef36f8ab736a93dccf19458cdc80d4b593547"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/Dispersion_observation.png",
+    "size": 808992,
+    "mtime": "2026-06-07T11:17:21.985130+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "59846b700abcf89c2779abce27b5d667637f6429cf4a52ca1892c687359f2aa7"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/Dispersion_observation_distillation.png",
+    "size": 616612,
+    "mtime": "2026-06-07T11:17:21.995871+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "134b0fcb07dbab1baa769854100fc9791b846f6f6c50591485564fc8492b6660"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/ImmunoStruct_contrastive.png",
+    "size": 502211,
+    "mtime": "2026-06-07T11:17:22.002952+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "c2590ba1ecac5e1d0976df3be6e9fa4056dcdd78670201c6db461e3e4f18b0d0"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/ImmunoStruct_results_CEDAR.png",
+    "size": 1281557,
+    "mtime": "2026-06-07T11:17:22.016484+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "f1f564e0c7221f24f4bffe14cce5b5df6786c75f7dfcf1b6d2be7566820050ec"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/ImmunoStruct_results_IEDB.png",
+    "size": 956273,
+    "mtime": "2026-06-07T11:17:22.029272+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "2768b1a5ef0c501dc03c53c594a28e028df2cd57b51c4fd80c9a57906f6195c5"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/ImmunoStruct_schematic.png",
+    "size": 972870,
+    "mtime": "2026-06-07T11:17:22.045234+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "2d3ddf56ae63b34ead168cb95b484881f934e61204a8740c67d6dc1678bbaf7d"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/assets/RNAGenScape_schematic.png",
+    "size": 1000298,
+    "mtime": "2026-06-07T11:17:22.060343+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "ef85b974a990b74c230dc1a80d3bb357f4f8a430d13c12c6120927c9fb797287"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/figures/brute_force.png",
+    "size": 1753162,
+    "mtime": "2026-06-07T11:17:22.330024+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "abb63055b0d49edbe9002e820294a622db1429d31b1d2446340036cf1db92607"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/figures/correctness_by_category.png",
+    "size": 655498,
+    "mtime": "2026-06-07T11:17:22.342073+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "bc2cc547f15430bc9af2ebdfba0b8cf1c73702e8fbea35d8b2953cc960da117b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/figures/correctness_by_subcategory.png",
+    "size": 1100554,
+    "mtime": "2026-06-07T11:17:22.357089+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "b6639239da2fa9f2bec3eb096ec0db3942965ed38e57446de4b8a240a77c02c6"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/figures/rewriting.png",
+    "size": 410105,
+    "mtime": "2026-06-07T11:17:22.364866+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "0460f09210bc23c272602ecb8b3fcf3984f42fc055df3b0e4982eab50303607f"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/figures/selfcorrection_math.png",
+    "size": 611488,
+    "mtime": "2026-06-07T11:17:22.373895+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "71133ed59cc16f8c36a4e8b2325575d185f36a8534c29579d2eff177544e9e53"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/plot_brute_force.py",
+    "size": 10429,
+    "mtime": "2026-06-07T11:17:22.374911+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "99f285d252b45ca6fcc1e4458bc74df334b251f1d7b9f96168a63020f73386a0"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/plot_correctness_by_category.py",
+    "size": 6535,
+    "mtime": "2026-06-07T11:17:22.376918+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6b276da17edd8a715aae1e11792967cf0de118b9718ec015ac277c591b3a9eb3"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/plot_correctness_by_subcategory.py",
+    "size": 6636,
+    "mtime": "2026-06-07T11:17:22.379197+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4c8a8ac067ae410132bd45991916b909168355fa23e914d833568473283019eb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/plot_rewriting.py",
+    "size": 3799,
+    "mtime": "2026-06-07T11:17:22.381197+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5a3e768f34d3212f80e9a08d3f22529df78346a8fceb430bc9a37bdef9efc020"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_brainteaser/plot_selfcorrection_math.py",
+    "size": 4114,
+    "mtime": "2026-06-07T11:17:22.383339+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b22f1ac50b5f4d31efe172c8a3cf4798d51cf84bbea950bb28332a4f620e73eb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_CellSpliceNet/figures/ablation.png",
+    "size": 355284,
+    "mtime": "2026-06-07T11:17:22.067404+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "3373085ababf07481a352fe542fd79a58701e0e052c5593ca56984008ddad027"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_CellSpliceNet/figures/comparison.png",
+    "size": 813084,
+    "mtime": "2026-06-07T11:17:22.079828+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "49d4ebc7d1867918b9d0167d8e821d8ce7845459a9da55a6fefcef87eeb7024d"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_CellSpliceNet/plot_ablation.py",
+    "size": 3050,
+    "mtime": "2026-06-07T11:17:22.080825+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "507d1e6c6531e335e39608c4d6191eae3cbba539459924f1de4ed457443eae0f"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_CellSpliceNet/plot_comparison.py",
+    "size": 4018,
+    "mtime": "2026-06-07T11:17:22.082824+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "415c8df60756bc1dd6ddbd711def7c32df85f07e7841209bcf97cc2e78a9d1eb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/diffusion_swiss_roll.py",
+    "size": 3642,
+    "mtime": "2026-06-07T11:17:22.084823+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5566756d073cd7ecaa9cdc5ff885ba9affd8416251f190a4cf8c0e80e6e8d51d"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/diffusion_swiss_roll.png",
+    "size": 1794980,
+    "mtime": "2026-06-07T11:17:22.108735+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "9f02fa4603dae748e3745b95b0ed252f2ba386da6101dc1be6c4a2a886c78eb0"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_GeneRegulatory.pdf",
+    "size": 24757,
+    "mtime": "2026-06-07T11:17:22.109739+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "30b1efaf3293a240c6646f076a14f702bb3556fd10a1fb791c23deb90d3ff40e"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_GeneRegulatory.png",
+    "size": 287419,
+    "mtime": "2026-06-07T11:17:22.115187+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "96075eb70285f4f72869b99398c9a923336fbc3a5188883d9e8415e1cc027a46"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_Trajectory.pdf",
+    "size": 19791,
+    "mtime": "2026-06-07T11:17:22.117860+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "465050a8f8c8be85eb3e8d17c16eaef3df50acc41b2bd212d2b6176d97efc78c"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_Trajectory.png",
+    "size": 388293,
+    "mtime": "2026-06-07T11:17:22.125113+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "91b214f745a99f1f2b472ddae7661dfa2d9241791768767180219315b89047ec"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/figX_comparison_Ablation.pdf",
+    "size": 19233,
+    "mtime": "2026-06-07T11:17:22.125113+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "d4c7b8013a24aa830a0f83b8cf5ffd917a932458e6a265f4b5f29e9a4389960a"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/figures/figX_comparison_Ablation.png",
+    "size": 328952,
+    "mtime": "2026-06-07T11:17:22.133164+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "4f7b7b4b01a1b498540850ddabc217fd964eb37142e99a6ee6b5c26cf12aba7f"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/plot_comparison_Ablation.py",
+    "size": 2570,
+    "mtime": "2026-06-07T11:17:22.135166+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4b071ac77be68def7acd8a5b1b73e5384659ae6293c39ee24c6a778173651ea8"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/plot_comparison_GeneRegulatory.py",
+    "size": 3096,
+    "mtime": "2026-06-07T11:17:22.137507+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1f260fbb6eca33c7f20ab8ca61e5119cb78e39acebb0b364a3eaa3b914b23836"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Cflows/plot_comparison_Trajectory.py",
+    "size": 3015,
+    "mtime": "2026-06-07T11:17:22.139519+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d6a81cb5ea7c0db80b42ede01ab5c06fc61ae1993e6f7d7078b851337fca8ac9"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Dispersion/figures/idea.png",
+    "size": 384839,
+    "mtime": "2026-06-07T11:17:22.147043+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "e805fb0f7ccdf8aa3ae764e8156cf6b61b6d56ef7dded0fc7556566e316649a3"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Dispersion/figures/illustration.png",
+    "size": 762950,
+    "mtime": "2026-06-07T11:17:22.157572+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "2528309a41ba6edab9c377a2304c144813c0e99565239a849c427ab00a14643b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Dispersion/plot_idea.py",
+    "size": 2508,
+    "mtime": "2026-06-07T11:17:22.159590+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "77974b680f87fcb237f92526c4bccc031a93cdf5cc9cbe234d97a4a58cc80789"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_Dispersion/plot_illustration.py",
+    "size": 15876,
+    "mtime": "2026-06-07T11:17:22.161584+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6742ee93ecd484a0dbe1babe59a2cac5b050e099553d397cb2108cab4685e2e4"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_FPGM/figures/freq_prior.png",
+    "size": 641033,
+    "mtime": "2026-06-07T11:17:22.174628+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "0f8f77c4de67324cf7ddd7ee370a8ef39f10417b241142b9bacbc830677ff0fe"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_FPGM/plot_freq_prior.py",
+    "size": 6723,
+    "mtime": "2026-06-07T11:17:22.177458+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a40da3a3f36660755eb7b08e7ecabff1d7b477d99a68b417a517fc95b7c05b25"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_ablation_Cancer.png",
+    "size": 816715,
+    "mtime": "2026-06-07T11:17:22.190604+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "46c9e05df9d7c941628791ac447c5d84a29d942896ce3a13d00432e9f5c720ef"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_ablation_IEDB.png",
+    "size": 1160225,
+    "mtime": "2026-06-07T11:17:22.204659+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "854fe931bde6ca6c50eda6b147907f00d8f10d74c3b40bad1714b903bf945f00"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_comparison_Cancer.png",
+    "size": 799770,
+    "mtime": "2026-06-07T11:17:22.217716+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "0c35bb8a1fb21d5e30e16be152fc92959af580d9e24f04ccc61444adba8c7aa2"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_comparison_IEDB.png",
+    "size": 757551,
+    "mtime": "2026-06-07T11:17:22.227354+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "18a52f7a910fe9c9ff06015f5a1e63527458a86c847f573eb96ba254d4645ac1"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ImmunoStruct/plot_bars.py",
+    "size": 7923,
+    "mtime": "2026-06-07T11:17:22.229367+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "820acbc976b88cc713908a4fa0c8f57ad63a9a05478224dcde80048c71b753ea"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ImmunoStruct/raw_data.py",
+    "size": 4584,
+    "mtime": "2026-06-07T11:17:22.230360+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5204c9833b29883872bdfc15f5168b548b67a29e1de9bdae2f0a887be5889d62"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ophthal_review/figures/composition_heatmap.png",
+    "size": 279533,
+    "mtime": "2026-06-07T11:17:22.392996+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "38a9c4e8fd691cbd7dcb4f5b5abb69398b4974d32cad19a4a33819db1cb34f3a"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ophthal_review/figures/trend_by_month.png",
+    "size": 364102,
+    "mtime": "2026-06-07T11:17:22.398939+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "66fe0f27f44697547b6cb219ff90696f54a6fef48984c9578ace258e0ebce4d4"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ophthal_review/plot_composition.py",
+    "size": 3112,
+    "mtime": "2026-06-07T11:17:22.399938+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b3d5f55eebfee6b8cfb6748e1eb0a150e926b4a4f918a960a9b9421513514aad"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_ophthal_review/plot_trend.py",
+    "size": 5655,
+    "mtime": "2026-06-07T11:17:22.400939+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "41232f15306ed83081ae695da341c6d78e74dcefd46b32b3f313245dde15db98"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/figures/manifold.png",
+    "size": 108276,
+    "mtime": "2026-06-07T11:17:22.234361+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "83e55ca23d8aa2fa591a46d3fe4f9d6ac11e17cbc9657e2615d883ea6deb937c"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/figures/manifold_holes.png",
+    "size": 1019896,
+    "mtime": "2026-06-07T11:17:22.246122+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "2ad2be6fa9c9165e800dba4d997850c9a426cbe9b441c78b76518335bcc3f948"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/figures/results_comparison_optimization.png",
+    "size": 850446,
+    "mtime": "2026-06-07T11:17:22.258166+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "4cf8539d0521b7268f0227b56cecddf2f70c1bb4bbcf9b5e3be886e95a54927a"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/figures/results_comparison_speed.png",
+    "size": 92362,
+    "mtime": "2026-06-07T11:17:22.261622+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "cd1fec84f615a43dbe91cc94bfbb94fe07e086fdd5d8191fbff2ec990e38d4f5"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/figures/results_sweep.png",
+    "size": 142120,
+    "mtime": "2026-06-07T11:17:22.266216+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "4db30b32b65e6b7160ebe025993c2ffdaf6e240d836c253419e91649d3da8deb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/plot_comparison.py",
+    "size": 11464,
+    "mtime": "2026-06-07T11:17:22.267862+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a5481497f5f3f89f7c4cbf3ec577a25a02f1015c3a4134e9a7906cf2c3ab553d"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/plot_hole_manifold.py",
+    "size": 2629,
+    "mtime": "2026-06-07T11:17:22.270053+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7965ca632778f94dd63ae8d233a61d1a9e85d8ed2e7b63b338d652b6b2b5ff80"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/plot_manifold.py",
+    "size": 1872,
+    "mtime": "2026-06-07T11:17:22.272427+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d064c03cd3109b5332be069d6a3d88b0e6a04121966a18e8f74818d3bbf281dd"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_RNAGenScape/plot_sweep.py",
+    "size": 2950,
+    "mtime": "2026-06-07T11:17:22.274540+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5730459c850f58e2f810c38755d09f1e3322286130fc4fa0803c5f11cabfe7ad"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_VIGIL/figures/comparison_posttraining.png",
+    "size": 249289,
+    "mtime": "2026-06-07T11:17:22.280960+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "a6f2e75e7d8361754445d86ce04386b5764a46bf2cbc94e8df0c75ecf1bab142"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_VIGIL/figures/comparison_radar.png",
+    "size": 809841,
+    "mtime": "2026-06-07T11:17:22.293828+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "d6613715d9d4564fb0c7354430b227d43c9df04032e32b346601971381e5ba2d"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_VIGIL/plot_comparison_radar.py",
+    "size": 7570,
+    "mtime": "2026-06-07T11:17:22.295970+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2d4f16fa3f2e9e224badc728fc7483cdc7dae39f35e71ec557995a6bd2b25971"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/figure_VIGIL/plot_posttraining.py",
+    "size": 3030,
+    "mtime": "2026-06-07T11:17:22.298885+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7ae5b3e278f08edfb9f6342d72873b0d4a4e58da581231179568db0772b2c8fd"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/gallery/fig1-material-mechanism-rich.png",
+    "size": 570018,
+    "mtime": "2026-06-07T11:17:22.409126+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "2e0706fae3256e1de2388f8605f35b9b6ac23cfc397161a952f34cc5fa2f2192"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/gallery/fig2-spatial-imaging-rich.png",
+    "size": 643666,
+    "mtime": "2026-06-07T11:17:22.415075+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "90081b3f778b9ede2dba41c60b6abf0c28a239060c69428344539529cd7f3257"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/gallery/fig3-in-vivo-efficacy-rich.png",
+    "size": 371419,
+    "mtime": "2026-06-07T11:17:22.421941+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "25d6fc50f5808104a7cb19f4795cea4229fbc6159fa7509f716a94f7c160a033"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/gallery/fig4-single-cell-systems-rich.png",
+    "size": 392735,
+    "mtime": "2026-06-07T11:17:22.427470+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "999edb06b942f988a51b11f947845e42e4c346b2f9e5d5a6425def9e43bb69d1"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/gallery/fig5-validation-perturbation-rich.png",
+    "size": 408275,
+    "mtime": "2026-06-07T11:17:22.436463+00:00",
+    "action": "record",
+    "reason": "binary or asset file",
+    "sha256": "245ad31f97b2054628987444e44d6a007f352f65ae6254189f5ed8ba9b0301c6"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "evals/evals.json",
+    "size": 2164,
+    "mtime": "2026-06-07T11:17:22.439603+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fda5e5d9b35aad1ff3fde16999aadb534a6ce9f3f035d4c6a5d20fe327170eeb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "manifest.yaml",
+    "size": 3056,
+    "mtime": "2026-06-07T11:17:22.441605+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6ab6376d4c7aeecf5919d523ff9d85a760979a51c2fd31491f656255d1cc76ae"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "README.md",
+    "size": 21889,
+    "mtime": "2026-06-07T11:17:21.898844+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "69301a9d8a4e99c59ffaf02ecac2e15ebbf47de5e75ee6e7bf104caf8166f41b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/api.md",
+    "size": 13980,
+    "mtime": "2026-06-07T11:17:22.443600+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e229f17358f84e139b981883dc390157e1451fa52a00e5eae3a80202bed5877b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/backend-selection.md",
+    "size": 4794,
+    "mtime": "2026-06-07T11:17:22.444599+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "da60e80a089b56a769a2516c6d9e7b309f73bb24558175a52695d09b48117aaf"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/chart-types.md",
+    "size": 9192,
+    "mtime": "2026-06-07T11:17:22.445600+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "60084a836bc84946f0b9871d9af2885a92605065f07747d57d230482562532fd"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/common-patterns.md",
+    "size": 10300,
+    "mtime": "2026-06-07T11:17:22.447856+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d7e9b8339e81b747ff9357748943c8c3dc901fed89ed6acf6eb87ac44fa8ce00"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/demos.md",
+    "size": 4183,
+    "mtime": "2026-06-07T11:17:22.450562+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d1dfb44c62bd812fbad69d5356268d7cb2c464180630082da898f3a56ef089cd"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/design-theory.md",
+    "size": 16056,
+    "mtime": "2026-06-07T11:17:22.452812+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "08c65ea7fd4aa063696ba31f62fe46b05bfea91b528613e1ed484e3240585bd2"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/figure-contract.md",
+    "size": 4063,
+    "mtime": "2026-06-07T11:17:22.459260+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "375969e461874ac9276f2c92a6fc804ec549dc2ddd5fad8e5a004d0ae6ca3a02"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/nature-2026-observations.md",
+    "size": 5734,
+    "mtime": "2026-06-07T11:17:22.462089+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6e1b6fe6b7c4dd8c6e566939d17ff3789ef3b2793cacdffe811232236a31b5e9"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/qa-contract.md",
+    "size": 4855,
+    "mtime": "2026-06-07T11:17:22.463660+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "67821d87536e7576fda1a05ac452d5ad3b3cc5588f16f53767e8346152a2c7dc"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/r-template-index.md",
+    "size": 3969,
+    "mtime": "2026-06-07T11:17:22.466660+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7805b360b1f8a62234eb1030a475b09039cea2019d8806befbd3170aec680ab0"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/r-workflow.md",
+    "size": 5436,
+    "mtime": "2026-06-07T11:17:22.469196+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "274f70c5941a76ba5991067e8fb5781c0e23d4c7d9ba35c711b194f6b3a74707"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/tutorials.md",
+    "size": 8420,
+    "mtime": "2026-06-07T11:17:22.471199+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ba6b3e5d467eacc607312dafcbf3ef4397ecbb5092f67565cf651ac9302cf418"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "SKILL.md",
+    "size": 5304,
+    "mtime": "2026-06-07T11:17:21.899844+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7620e55e6fa1ff14ed9bffa49e09f3cf2c0f1611deaf39c927161d412acf8f27"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "static/core/contract.md",
+    "size": 3105,
+    "mtime": "2026-06-07T11:17:22.478671+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7a5b7bb36a09c190572690fbf22127a72cafaff67c92f03fa0d820de123b02ef"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "static/core/stance.md",
+    "size": 3408,
+    "mtime": "2026-06-07T11:17:22.480675+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5dcb819a0f2632074618b6f9027cc43fff7263f79a5594d1e1ffb4a6bf41c7bb"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "static/fragments/backend/python.md",
+    "size": 1973,
+    "mtime": "2026-06-07T11:17:22.486869+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "78dcc8d5d386de247d0dd0e3645f71c223f9af3aaa765cedfedac8fdf2ae949a"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "static/fragments/backend/r.md",
+    "size": 2119,
+    "mtime": "2026-06-07T11:17:22.489411+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "28a58877fe619a3671d0e5a944a15bbc2d320b57e95d78fe9ef056ae0bd3b5ac"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "manifest.yaml",
+    "size": 2598,
+    "mtime": "2026-06-07T11:17:22.493408+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9fb36bde3bfba271de6434cf574a86e46a4c8add4c3ff887cef6c8520c866184"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "README.md",
+    "size": 6080,
+    "mtime": "2026-06-07T11:17:22.491408+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "47da6c4679bb5513c9534b9eedb0de63f7294253bfb8153df2f88f8dbf3f6fd1"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "references/design-and-layout.md",
+    "size": 11775,
+    "mtime": "2026-06-07T11:17:22.498957+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "949f5578fc4bb091571c007b213ba42dadf67f88214224727c636f93fe4cbdb4"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "references/figure-assets.md",
+    "size": 3221,
+    "mtime": "2026-06-07T11:17:22.500950+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ee65b62bd4dc2c2099fe089f5781bd59c277b27bc683654bd6e9a010d3f60cc6"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "references/self-review.md",
+    "size": 5695,
+    "mtime": "2026-06-07T11:17:22.502461+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "66938371bbc4ef44f64f67f29969692102fb82d5945cf96f468d7d75b8495c4b"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "SKILL.md",
+    "size": 5604,
+    "mtime": "2026-06-07T11:17:22.492408+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "452eb16a5ab8455e94726019a569b06e4ceb95be0a62a15b75fdabd9f33bc45b"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/core/output-and-quality.md",
+    "size": 4377,
+    "mtime": "2026-06-07T11:17:22.507924+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5113ca17e1c8db0ae098d1053da9bd299b1e8aa39eef0c463833966e1726ec95"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/core/principles.md",
+    "size": 3057,
+    "mtime": "2026-06-07T11:17:22.508910+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5e61c3cdc493e0cf251d49cacb3299350aba4b1c94a12cc551ff3ccbd41e60a5"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/core/toolchain.md",
+    "size": 2631,
+    "mtime": "2026-06-07T11:17:22.509909+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "402654a910c8aab50a9c9d3fbdee44c850ff5c52eb5e08c663a96512bde67b94"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/core/workflow.md",
+    "size": 5442,
+    "mtime": "2026-06-07T11:17:22.512138+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b2d778dc73545ea956b4ee07ce36dd96a8f81f032153f1c6248c8c2469412d9b"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/fragments/paper_type/clinical.md",
+    "size": 1240,
+    "mtime": "2026-06-07T11:17:22.515677+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0be443a58e8f7dde04e510d5cf2450453634b439292070bfd8b1dbb514e16639"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/fragments/paper_type/discovery.md",
+    "size": 1333,
+    "mtime": "2026-06-07T11:17:22.517352+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b2ad1dcd11421a41e7dbc37d565431d83ccfed69291e6dc139e60b3c718608b7"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/fragments/paper_type/materials.md",
+    "size": 1251,
+    "mtime": "2026-06-07T11:17:22.518466+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d2b2ce073178e1f97e4ad8dbf794f5f51a3361812a25707013d1ebea28640eb6"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/fragments/paper_type/methods.md",
+    "size": 1307,
+    "mtime": "2026-06-07T11:17:22.521271+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ce331af1079776d655b78f76c41046e9f9af557073c170e6520a76f6fee8cd62"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/fragments/paper_type/resource.md",
+    "size": 1193,
+    "mtime": "2026-06-07T11:17:22.523421+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bc3ea42adf05d5eca2422a0bf2322837484998b75ac87ab437d5f0a2c1d727fb"
+  },
+  {
+    "skill": "nature-paper2ppt",
+    "path": "static/fragments/paper_type/review.md",
+    "size": 1064,
+    "mtime": "2026-06-07T11:17:22.525417+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "722e0195c21ae6b363936633d41d0f6c418c3ab528941a0cc1da59fb0d4808d6"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "manifest.yaml",
+    "size": 3692,
+    "mtime": "2026-06-07T11:17:22.530241+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d301924c6413ac30fc1aba901aa9d87a79ff37000004da17d36147ae74d1472a"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "README.md",
+    "size": 3465,
+    "mtime": "2026-06-07T11:17:22.527939+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d3d3c354ae3c41fd03128d161d435d0d984bdf1b1c7dc22d364a7ac31ffb33d2"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "references/latex-layout.md",
+    "size": 9948,
+    "mtime": "2026-06-07T11:17:22.532259+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "93ca210fff43b73a719b9ed2674ee4aa0a08e3929bb5a1955cd96dc446f61aed"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "references/phrasebank-playbook.md",
+    "size": 3833,
+    "mtime": "2026-06-07T11:17:22.534256+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f5ada5ac8b4d851e1cf4511f317e81f0302371d7a7cb5668fd96d0ae23885a89"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "references/published-article-patterns.md",
+    "size": 4434,
+    "mtime": "2026-06-07T11:17:22.536770+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b0864739dd2b56033f011a98aeb2fdece458cf37089894a55817b3f16de444b8"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "references/section-moves.md",
+    "size": 6009,
+    "mtime": "2026-06-07T11:17:22.540233+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "663e0579b46829fbb7f1b225fadc80c570d4e1090fe9d34ceb61795d819ffba5"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "references/style-guardrails.md",
+    "size": 2763,
+    "mtime": "2026-06-07T11:17:22.543591+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "97c4c5768e7bc37e80d7f55dbd90fe9564a7d96838471a353962b83d57028736"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "references/writing-strategy.md",
+    "size": 4573,
+    "mtime": "2026-06-07T11:17:22.545583+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "cda596a532e2013e0c2461f4412a1d3cbb262ce9392e6c1d6aae990d37474de8"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "SKILL.md",
+    "size": 5321,
+    "mtime": "2026-06-07T11:17:22.528940+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "54db790078114bf55f8d4a3a5aa2a99ac6f643501a6cecb918c2dd656739f0e1"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/core/failure-modes.md",
+    "size": 904,
+    "mtime": "2026-06-07T11:17:22.551348+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ae62674cc0cdf41cc8f706b4a2ff15302262dde569485caa71fa818ddf1a53a7"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/core/output-format.md",
+    "size": 502,
+    "mtime": "2026-06-07T11:17:22.552349+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "64b476cd035c6ee271386edd17dedd414d3c24caca2d63df41a53ffa85a087af"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/core/stance.md",
+    "size": 1686,
+    "mtime": "2026-06-07T11:17:22.556512+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "10c3a1c323405f5500218b1028bcf24dd8b1c50ffd7c56b85b6b91ee9dd92dc7"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/journal/generic.md",
+    "size": 756,
+    "mtime": "2026-06-07T11:17:22.562040+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5d4f0a68410cf27b0cfacbc0b0557e197d2dcca3f5af942ab6a857770fe07662"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/journal/nat-comms.md",
+    "size": 2260,
+    "mtime": "2026-06-07T11:17:22.564043+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5d24b0ec064afdb784d5b5475423717b44f90bee1494cac7ee06d4cf3338ab41"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/journal/nature.md",
+    "size": 1204,
+    "mtime": "2026-06-07T11:17:22.566552+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a15e63191b40f29678119df5b1be456f927da6ad1bc05a333389b5a5ee2a1912"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/language/en.md",
+    "size": 1233,
+    "mtime": "2026-06-07T11:17:22.569572+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b8de42091383d42c1e3ff90b2d0c3638f5d5f8f5dc950c37c7b0a14c623891f9"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/language/zh-to-en.md",
+    "size": 1260,
+    "mtime": "2026-06-07T11:17:22.570976+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fd2af85b3adfadd5ff23c5d8c4f0029cd1f710612022d3204709f97621170d46"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/paper_type/algorithmic.md",
+    "size": 971,
+    "mtime": "2026-06-07T11:17:22.574192+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "773cf32297eb1844fde05c7c718f1f31a331557e3aa46eaee24bc1c0a96ba2b4"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/paper_type/hypothesis.md",
+    "size": 782,
+    "mtime": "2026-06-07T11:17:22.576729+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d4c0e1e9e7c45bb2acb802c61f328cba92b6eefcd7d78188c4b5b491620bf928"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/paper_type/methods.md",
+    "size": 841,
+    "mtime": "2026-06-07T11:17:22.577749+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5fa8a4c3dea1e2a3fd7c68e30634a3879fb4d50ffa077f4d8229f3d19697bb20"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/paper_type/research.md",
+    "size": 814,
+    "mtime": "2026-06-07T11:17:22.579745+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ed6be375467ec7b0f642535fa4cad4019d97af37b9add2fb9182f4ef11eb0727"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/paper_type/review.md",
+    "size": 1011,
+    "mtime": "2026-06-07T11:17:22.580741+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f27247cfe2a7ebb87c79e319668ef9f733946798995f9e0d2e6c26acf685b321"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/abstract.md",
+    "size": 699,
+    "mtime": "2026-06-07T11:17:22.582752+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d5155fd295e1b0400841054dd0d5dd946753607b4de69a5b1c64cb1910aa1654"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/conclusion.md",
+    "size": 527,
+    "mtime": "2026-06-07T11:17:22.584751+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3695d97f3fe3da40034c92e910b2d6b9a2d936ecae96e7155ed07f45338a8b64"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/discussion.md",
+    "size": 908,
+    "mtime": "2026-06-07T11:17:22.585743+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7cac5457ca445b8eb1c185f838739c0a4ac5957c23d4c8ab4095899e88b0ff93"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/intro.md",
+    "size": 669,
+    "mtime": "2026-06-07T11:17:22.586743+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a08bed0001bd36a12c1a91313fe9bdd55ff376ebf261cb7a28e1b0fb619168eb"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/methods.md",
+    "size": 841,
+    "mtime": "2026-06-07T11:17:22.589295+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7cc82f050cf744bf1bc9a854e08d4e636ca79f7ae087c7399da22267811df098"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/results.md",
+    "size": 963,
+    "mtime": "2026-06-07T11:17:22.592318+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a4bb27a2b1bf0023d23606cdca76197c2bea3a5df3da71061bb9959c2843d3fe"
+  },
+  {
+    "skill": "nature-polishing",
+    "path": "static/fragments/section/title.md",
+    "size": 662,
+    "mtime": "2026-06-07T11:17:22.593601+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "48580ab75d5432b6969e4df79f110cb60b35db01fe59cdd15542755106ad354f"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "evals/evals.json",
+    "size": 1854,
+    "mtime": "2026-06-07T11:17:22.598586+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6ccb2feb3edd7c47a97dcbd70cef3fbed9f474d42144cfa5eb61d35f6efa97c1"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "manifest.yaml",
+    "size": 1892,
+    "mtime": "2026-06-07T11:17:22.599712+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8f58e4ab0000ec830a09cdd56b0a683ae85575aaf4024d981c95938c06d29050"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "README.md",
+    "size": 1332,
+    "mtime": "2026-06-07T11:17:22.595837+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a1864fe113bd13fb846b77b8d2ed1fb350d8fbf3c1e2d71fc5b41f2b2328dd75"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "references/figure-extraction.md",
+    "size": 2105,
+    "mtime": "2026-06-07T11:17:22.602983+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ca0caae602a820af8f059bc6d319533034eef8b6ff9ef878ffe1e108929e6a87"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "references/grounding-rules.md",
+    "size": 2032,
+    "mtime": "2026-06-07T11:17:22.604997+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "45e2481d968f10959ea306c3cb9db5bcd0a68b5cac7fb2d04d1993ddcc6eedd6"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "references/output-spec.md",
+    "size": 3893,
+    "mtime": "2026-06-07T11:17:22.607527+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1f79971c98b9d500df431be173e9ac7b43c1fd1b87672c9f55755978b140effc"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "SKILL.md",
+    "size": 4781,
+    "mtime": "2026-06-07T11:17:22.596937+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "425c76b5d8f039e347e243b37b0ce8bbd0312f6533d55677d7fa47c6fe2617db"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/core/output-contract.md",
+    "size": 1284,
+    "mtime": "2026-06-07T11:17:22.612530+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2aa87544b8a76e750561589c7f654d99df66ecc097cd9e1c9df88bf34ee5c548"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/core/principles.md",
+    "size": 2997,
+    "mtime": "2026-06-07T11:17:22.613528+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c1d2fff7d6a5adb612b04f0a8601b80cb8aa0bd0f8f30bf958e7b3e7082f02f1"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/core/workflow.md",
+    "size": 4187,
+    "mtime": "2026-06-07T11:17:22.615527+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a887db4c58820996017dfcb68361f7a8da5cdc2ff80c9757c373cab1f2b026d3"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/fragments/source/doi-arxiv.md",
+    "size": 1090,
+    "mtime": "2026-06-07T11:17:22.618053+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1e40afe969b361444c1f28f858ef405790fa57e3efd8fed33868c6f6900ad94e"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/fragments/source/html.md",
+    "size": 1021,
+    "mtime": "2026-06-07T11:17:22.619053+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "7d5a6157ff597c847fc42fe106afb1951f23ca808a416c4561443324e6f782d0"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/fragments/source/pasted-text.md",
+    "size": 1053,
+    "mtime": "2026-06-07T11:17:22.622057+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4ea9c89e04d063f3d4ebfb1d26b229df6d3b07105ddb636ae993033b6ac032ab"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/fragments/source/pdf-text.md",
+    "size": 873,
+    "mtime": "2026-06-07T11:17:22.624054+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "658d1307850dcadfe72e746222855e99ba8ed5cdc63360e1e7657ae9a499bbbe"
+  },
+  {
+    "skill": "nature-reader",
+    "path": "static/fragments/source/scanned-pdf.md",
+    "size": 909,
+    "mtime": "2026-06-07T11:17:22.626575+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3775319f4a4ae59ccffcc21649139acce0cefbc469f2eb6b9f9ca224f1ffe850"
+  },
+  {
+    "skill": "nature-response",
+    "path": "examples/conflicting-reviewers.md",
+    "size": 1509,
+    "mtime": "2026-06-07T11:17:22.633586+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f04f2170d28a6c03253e499314f0b5c0bfe8b1d3667d8399895c5b11e9365d55"
+  },
+  {
+    "skill": "nature-response",
+    "path": "examples/major-revision-with-missing-evidence.md",
+    "size": 1554,
+    "mtime": "2026-06-07T11:17:22.635585+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "63dc44d61e5b4f8359f23d69b347442d464affa9cd1d377747bda425c1b25e9d"
+  },
+  {
+    "skill": "nature-response",
+    "path": "examples/minor-revision.md",
+    "size": 1770,
+    "mtime": "2026-06-07T11:17:22.639122+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8ccccb79a9133c0f2c3e5f5425573b4f79ab438e655b038e36b9383447742207"
+  },
+  {
+    "skill": "nature-response",
+    "path": "manifest.yaml",
+    "size": 2153,
+    "mtime": "2026-06-07T11:17:22.641350+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "407a47c66449d25b346ee048fda2377c80344bbf77ae263e175153222cbdbe76"
+  },
+  {
+    "skill": "nature-response",
+    "path": "README.md",
+    "size": 4962,
+    "mtime": "2026-06-07T11:17:22.629595+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4e278e8774706d9e92a6e8e386295c60d7f25ad86008e1eeb605819057e1b8c0"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/action-mapping.md",
+    "size": 3769,
+    "mtime": "2026-06-07T11:17:22.644363+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d49515c94a6a361938f807c43ca0b2f02d4827696a9836a1ba93be100aabda6d"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/chinese-author-alignment.md",
+    "size": 3416,
+    "mtime": "2026-06-07T11:17:22.645363+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ef815462476ee8b9dab6fba910d5d784c507ff0d262648db611826319cd1edad"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/comment-taxonomy.md",
+    "size": 4263,
+    "mtime": "2026-06-07T11:17:22.647879+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5f4f33528ec23d948f749d81f602c9d1ae925df4403b325f5064e19d00245532"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/difficult-cases.md",
+    "size": 4204,
+    "mtime": "2026-06-07T11:17:22.649887+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b6e8157059b99bd7f4c87111425cb60453422a73121daa0fd356b49b9eb2aa09"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/intake-and-routing.md",
+    "size": 5106,
+    "mtime": "2026-06-07T11:17:22.651184+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "27048300121b94a68cbce351a4f770c799c84ab046b82165832b2e5ecdcff332"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/qa-checklist.md",
+    "size": 3228,
+    "mtime": "2026-06-07T11:17:22.653199+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "716d65b7f439afe04020e811434c3490191a481b1e7896e3f28348309ab9fd68"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/response-structure.md",
+    "size": 3735,
+    "mtime": "2026-06-07T11:17:22.655200+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8a00f698a9a6b2f431f6b91e7eca1491b0d9dac29c2d1a84c226cbfd49dd71ee"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/source-basis.md",
+    "size": 3261,
+    "mtime": "2026-06-07T11:17:22.656718+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "553c9a4fef9af6a427d02b5871fc1c884b45ec70f88ded65ba3432e3eebadc93"
+  },
+  {
+    "skill": "nature-response",
+    "path": "references/tone-and-stance.md",
+    "size": 3431,
+    "mtime": "2026-06-07T11:17:22.658732+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9743189ffa58e2ad53fb95fc70a42aa55338c21e8d4046e8c04ee1555142f8d7"
+  },
+  {
+    "skill": "nature-response",
+    "path": "SKILL.md",
+    "size": 4443,
+    "mtime": "2026-06-07T11:17:22.631596+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "40651935e4591cbbbb2eb01b9b4967b6e843d7626e7f37ecac944002c1064e38"
+  },
+  {
+    "skill": "nature-response",
+    "path": "static/core/stance.md",
+    "size": 2468,
+    "mtime": "2026-06-07T11:17:22.661740+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a4943dce8320aecaea033edab1893567a6a83b12dde356b2ffc10fb44d811c8b"
+  },
+  {
+    "skill": "nature-response",
+    "path": "static/core/workflow.md",
+    "size": 2141,
+    "mtime": "2026-06-07T11:17:22.662738+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d222733171a8625cad084ca9efd10eff8a3d97308f0e5452db8b2e15f7487f8c"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/conflicting-reviewers.md",
+    "size": 1866,
+    "mtime": "2026-06-07T11:17:22.665289+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "190f773713f577276a2174549ddae508039018e16fc2d76a103ec8229ffbf4be"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/defensive-draft-audit.md",
+    "size": 1815,
+    "mtime": "2026-06-07T11:17:22.666831+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f265f7375e42098efacb16a7ea59c7d11b356ff9cf9b07aa09c4fdc651ba0657"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/evaluation-summary.md",
+    "size": 2248,
+    "mtime": "2026-06-07T11:17:22.669854+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "885f7182ea7bf2d829958ef6d278500d65b8f2d5be0218eb363e963aec111fe2"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/impossible-experiment.md",
+    "size": 1715,
+    "mtime": "2026-06-07T11:17:22.671864+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "898b95600ce589d606eaacb1d9c01c8d877183bd241026a4d96a7180a56b1056"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/major-revision-missing-evidence.md",
+    "size": 1858,
+    "mtime": "2026-06-07T11:17:22.672853+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b5744c05d5d9194fe2a1d89e4ea79ca934b5c61f72eda4879ac4f0b8e7d01186"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/minor-revision.md",
+    "size": 1440,
+    "mtime": "2026-06-07T11:17:22.674853+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0aac39479be9736b73ab31260bf5577244b0d3f4bbffd7c65d0149e491e611da"
+  },
+  {
+    "skill": "nature-response",
+    "path": "tests/rubric.md",
+    "size": 2766,
+    "mtime": "2026-06-07T11:17:22.676850+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3cf3f655a1f737396937c8ffde5c5c8cc3eb85f2535bcd11a8f8133cd1be5e17"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "README.md",
+    "size": 4489,
+    "mtime": "2026-06-07T11:17:22.679930+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8b45633bca772b246a31269ae64d832f5b75d3b9fb6362484da3855fd9fdf1fa"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/editorial criteria and processes.md",
+    "size": 4436,
+    "mtime": "2026-06-07T11:17:22.682911+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b5798f7a243bdda3c5bc609bfbd468d90e2e72c8885e3d5f74098a56b3384b23"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/qa-checklist.md",
+    "size": 1912,
+    "mtime": "2026-06-07T11:17:22.684930+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f08204bf0ae89e977683fa6fff62cb837f64c852602cbfd7f84ced2838b900c7"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/report-structure.md",
+    "size": 2269,
+    "mtime": "2026-06-07T11:17:22.686444+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f6e17f52ac81ef630f80281e4ef7dc2883e242839d00ba5b8bffcfcffbe551ed"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/review-axes.md",
+    "size": 3367,
+    "mtime": "2026-06-07T11:17:22.687459+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b75873c401da65f8cea613081a9d7729949c764431980e7f23ee61012bfc0fd2"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/reviewer-workflow.md",
+    "size": 2633,
+    "mtime": "2026-06-07T11:17:22.689473+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f4e343759827f6e1ffbb74efeaecca0198fda5bbbdd267672f9e1c0c4e982891"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/role-boundaries.md",
+    "size": 2578,
+    "mtime": "2026-06-07T11:17:22.690484+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "338119483783f4dafe51b41eba26f27e7e5fd118bfd10b1a8a837108e6de3e1d"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "references/source-basis.md",
+    "size": 4604,
+    "mtime": "2026-06-07T11:17:22.692473+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "c4764f9d68491a0a40f3bfdbdc3a666f862e753711d151468837ca98784aaf74"
+  },
+  {
+    "skill": "nature-reviewer",
+    "path": "SKILL.md",
+    "size": 6239,
+    "mtime": "2026-06-07T11:17:22.680909+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b7519d1d782b1dc17ac1502d34a89b2a8276eea49449d8126ea70b071e158be1"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "agents/openai.yaml",
+    "size": 274,
+    "mtime": "2026-06-07T11:17:22.698560+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0d7d8fbb3ba2a9825d4b5250f5ce9f1e4c5ed431f67101cc549d0e1571e11445"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "manifest.yaml",
+    "size": 4545,
+    "mtime": "2026-06-07T11:17:22.700568+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f989109cc6f3854c68b26b6e2b027c24b1f157a5819aa1b5f74b523ac3827511"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "README.md",
+    "size": 2345,
+    "mtime": "2026-06-07T11:17:22.695478+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "2d155e60c15d0c4ae765f4c861cc156ee62fc4912434f8a121c4b4abd1195eb0"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/abstract.md",
+    "size": 3730,
+    "mtime": "2026-06-07T11:17:22.702564+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4a5094d5621431ea1d24d7a0800eed292faa25bb03b787d90d60cb5dda3cecd1"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/article-architecture.md",
+    "size": 3328,
+    "mtime": "2026-06-07T11:17:22.705621+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "cdc8e8871562689b8d6473d0985c82d0dd809c618c93c630161152899219cdf8"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/chinese-author-workflow.md",
+    "size": 1494,
+    "mtime": "2026-06-07T11:17:22.707129+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3b86977a7a62f8ba86e33c15ce7fe0f2e0f018582e08aa566908e5a608424b1c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/conclusion.md",
+    "size": 1279,
+    "mtime": "2026-06-07T11:17:22.708142+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1cf4009f3b728236526ca7c413b5b256ddad3bc0a5ed8f947cefc74f17ed8b4c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/abstract/template-a.md",
+    "size": 971,
+    "mtime": "2026-06-07T11:17:22.713132+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "daf3dae0f50335abf90a7e9403d3688caf2d6fabc8fbd5105d8d992a27826671"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/abstract/template-b.md",
+    "size": 3299,
+    "mtime": "2026-06-07T11:17:22.715132+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0bfcb2a20d5c8939b509608358c6261752b28ebfd45caf96aba6c31d80876443"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/abstract/template-c.md",
+    "size": 1778,
+    "mtime": "2026-06-07T11:17:22.716640+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bd8b6fe04c516abe860fdc960fd579c5ae8c05994d46575e4c327a8a59943b03"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/abstract-examples.md",
+    "size": 888,
+    "mtime": "2026-06-07T11:17:22.710135+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "089f7b24280c2f7cd96531ac8fd8a36c7407f7bacff1269f2ac2c0167eb92b50"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/index.md",
+    "size": 2423,
+    "mtime": "2026-06-07T11:17:22.717651+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d1d6c79049aa43942f431ecda79730f2134693341a3994654688a388105cdf61"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/novel-task-challenge-decomposition.md",
+    "size": 1568,
+    "mtime": "2026-06-07T11:17:22.723658+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b8a4f7ba06ae7af8a46cf1e5edc7a1ace2c06bdc378b2dce50a7a8e2e2246d19"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/pipeline-not-recommended-abstract-only.md",
+    "size": 3006,
+    "mtime": "2026-06-07T11:17:22.726660+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b9c043dd7ff2f031c9f017633a7455fd7366e99dbbf7e551c77e126c78ead0b9"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/pipeline-version-1-one-contribution-multi-advantages.md",
+    "size": 2069,
+    "mtime": "2026-06-07T11:17:22.728177+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "448d65a78d5b04e9e5b6523c09a641eb9010d156c398d7220670629c4c3cf6b9"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/pipeline-version-2-two-contributions.md",
+    "size": 2083,
+    "mtime": "2026-06-07T11:17:22.730185+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "98c7a4a3cc1915decef359e4199746db07f2c02f2580c2477c7eb6becdf280a7"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/pipeline-version-3-new-module-on-existing-pipeline.md",
+    "size": 1532,
+    "mtime": "2026-06-07T11:17:22.731185+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1ecfe896f9a0dbf4b2092df5dd5625241fce9e8a2c1c6a51c2b47a55d007d3df"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/pipeline-version-4-observation-driven.md",
+    "size": 1457,
+    "mtime": "2026-06-07T11:17:22.732184+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bb0c6f46bf035ab2d2be7adcd245e634446bda7a368a4519ca78485d72a3e82e"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/technical-challenge-version-1-existing-task.md",
+    "size": 2722,
+    "mtime": "2026-06-07T11:17:22.733184+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0e41158ffa6da033c7dbeefddb4d75721a3384a9ff7b68221a5742bb011b01cc"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/technical-challenge-version-2-existing-task-insight-backed-by-traditional.md",
+    "size": 3881,
+    "mtime": "2026-06-07T11:17:22.735185+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b7e69e02bc93a42b2809c38a0680db76ba005884a03f9506d244d000838f5e41"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/technical-challenge-version-3-novel-task.md",
+    "size": 1650,
+    "mtime": "2026-06-07T11:17:22.736695+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ddec2867c45388a61d85f777d6e7efa0ea8fc9040e3137cec625befb8058b341"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/version-1-task-then-application.md",
+    "size": 741,
+    "mtime": "2026-06-07T11:17:22.740036+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bd73d35bcee1b8ffaf9428b7d3d9b43459a740a22262d7205ae81661802b23a4"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/version-2-application-first.md",
+    "size": 415,
+    "mtime": "2026-06-07T11:17:22.743031+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "09be673279f7d875d0d8444f997b10beb6b5f7de52be4713206e121a27366006"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/version-3-general-to-specific-setting.md",
+    "size": 861,
+    "mtime": "2026-06-07T11:17:22.745029+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f4eadd1c9351b9e84b741126712d53868f53880b80391e819989d2e70ed5cc03"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction/version-4-open-with-challenge.md",
+    "size": 1773,
+    "mtime": "2026-06-07T11:17:22.746540+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ea7f93a84a9db43f8557a25509b94447f16b2e0309d61e5e43fab85a14ce74ae"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/introduction-examples.md",
+    "size": 1569,
+    "mtime": "2026-06-07T11:17:22.720663+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "221f4ddfb7d508d797e34027a0c61af6d48d61f46685feedf869eba876b1f111"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/example-of-the-three-elements.md",
+    "size": 7507,
+    "mtime": "2026-06-07T11:17:22.749562+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "72d607f949e0819f62b9e4df0d884bb7ef83b4bedfde79627a9225a1fd4d368b"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/method-writing-common-issues-note.md",
+    "size": 365,
+    "mtime": "2026-06-07T11:17:22.750567+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "27bc12a58a2dfaeb511dded81c015130ad629cf3e2c8e46ae2de5594652dd5bd"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/module-design-instant-ngp.md",
+    "size": 4612,
+    "mtime": "2026-06-07T11:17:22.752561+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "cc09467c6a9c5611d538c36a396f2d91b99349b8db958a950f95d93830c9f696"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/module-motivation-patterns.md",
+    "size": 425,
+    "mtime": "2026-06-07T11:17:22.754566+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fd32a9580c2045f017b1c434c4bfdda11c4739d3ea5775409e7b3d38c1aca6e7"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/module-triad-neural-body.md",
+    "size": 782,
+    "mtime": "2026-06-07T11:17:22.756567+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ebe69038f6c00f0a14add9bf71d15de7b18ede3adb9a28d14fd2ca47866d7c7f"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/neural-body-annotated-figure-text.md",
+    "size": 2911,
+    "mtime": "2026-06-07T11:17:22.759115+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "97330f7a70f923d889baf514f28cebcfbca195fba84158cddd85ab3320c0452c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/overview-template.md",
+    "size": 2084,
+    "mtime": "2026-06-07T11:17:22.760139+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0d94e6bcf04b5388e303281619bffbbbde7de5b2643b38115ab3c432570cc86d"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/pre-writing-questions.md",
+    "size": 496,
+    "mtime": "2026-06-07T11:17:22.762221+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "cd0165c05f7ae581e59c5a9af3b377be64181ae6724a332ad06b323a27aa154a"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method/section-skeleton.md",
+    "size": 119,
+    "mtime": "2026-06-07T11:17:22.763238+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "dab0ae8a12a68cf1cbb558a090d4512ab5550ff5f8161c150b03a49d4e15bc92"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/examples/method-examples.md",
+    "size": 1052,
+    "mtime": "2026-06-07T11:17:22.747554+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "aa54ab39c2ec753ed8543d3c299676bdc3a699c7b05f4e824cf372dd0416589e"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/experiments.md",
+    "size": 4578,
+    "mtime": "2026-06-07T11:17:22.764236+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ac6169851c8330733da20b2e9a777cb258c4ad9aa17e6326af90432c56930d6c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/introduction.md",
+    "size": 15423,
+    "mtime": "2026-06-07T11:17:22.765236+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a2de17badd07cd38705868948a855d9b5858db36ef64ab5763990d6095b8c2d3"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/method.md",
+    "size": 6452,
+    "mtime": "2026-06-07T11:17:22.766755+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5e64b026d061cc85f8beedf627abd198fa541487cdb2465fef43de3b4a90ca20"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/nature-summary-paragraph.md",
+    "size": 10236,
+    "mtime": "2026-06-07T11:17:22.768448+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "912f34047fd49a2348447343ce3834bebfa398c01cecfe5f2d34024c795332a3"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/paper-review.md",
+    "size": 5514,
+    "mtime": "2026-06-07T11:17:22.769459+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "597a9aae3963f6e98f020db0c948af653dec372a9cff5a893f860171e319c810"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/paragraph-flow.md",
+    "size": 1741,
+    "mtime": "2026-06-07T11:17:22.770457+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4e825624436753d2453dd14ff06bfe1dd33cc090dea7dd219e9cad25801c316f"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/related-work.md",
+    "size": 1324,
+    "mtime": "2026-06-07T11:17:22.772884+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9eaf376d893bf7c381457f61a83858b92767681d237f0863f02abae021eaee82"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "SKILL.md",
+    "size": 5004,
+    "mtime": "2026-06-07T11:17:22.696475+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6dd8feb6080985f6eac11fda5572d83bf022ee23f2dea20eed6127719c810097"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/core/output-format.md",
+    "size": 817,
+    "mtime": "2026-06-07T11:17:22.776883+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "b8b63ee161b12498591d747ce25128efdf154d416af9454a18c2093abe31b750"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/core/stance.md",
+    "size": 1854,
+    "mtime": "2026-06-07T11:17:22.778826+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d3b224474938291aaca99d9146e15fa2732ed1b29b07f42858ce0b86dfac0ce0"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/core/workflow.md",
+    "size": 2217,
+    "mtime": "2026-06-07T11:17:22.780164+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5146c875016cd7647a8aa06c06b80ab99ecdbc040537c992f57c0fabc74076fb"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/journal/generic.md",
+    "size": 892,
+    "mtime": "2026-06-07T11:17:22.783541+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "da02941d5fd4c605934a5db503c3bacf9f966fc0b720cacc06110edc6f0e1270"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/journal/nat-comms.md",
+    "size": 3013,
+    "mtime": "2026-06-07T11:17:22.784656+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5c03d137079dd136a9aeb55916ea3c745aa93ebb83acec257062b98ac3e957d2"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/journal/nature.md",
+    "size": 1940,
+    "mtime": "2026-06-07T11:17:22.785741+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1124ed3fd0001a27d1ccea7f8e729e3e5f0d98333e1c98d5bfb2b06b927a4ec2"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/language/en.md",
+    "size": 1049,
+    "mtime": "2026-06-07T11:17:22.788489+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "96159d8c725a3c089d29d2c75030b9ef774a8c0df0c13119cdedccea03841e29"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/language/zh-to-en.md",
+    "size": 1653,
+    "mtime": "2026-06-07T11:17:22.790673+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1489703390f44326275641f95062fa443ced03b218b2bee9d2ee415a108370ea"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/paper_type/algorithmic.md",
+    "size": 1259,
+    "mtime": "2026-06-07T11:17:22.792664+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "48a8193ae2ad15462f608b846f86cfedcf21ed68b72af6e34441ca7f498130d3"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/paper_type/hypothesis.md",
+    "size": 1062,
+    "mtime": "2026-06-07T11:17:22.793663+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "68ad8bd1c54a7b36b5371b24db74b3bbea48fe419f7e3ee94feb203f6543fc26"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/paper_type/methods.md",
+    "size": 1280,
+    "mtime": "2026-06-07T11:17:22.794663+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "cae3ba19852575eaa9ac6325a0f1b4b9903146a78af8a67ed4d1e3acd9dc931d"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/paper_type/research.md",
+    "size": 1320,
+    "mtime": "2026-06-07T11:17:22.796664+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "5e21eaaa80d002c66ac414c45902d5653b3a5b3b9eddf6786f1236161ede534a"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/paper_type/review.md",
+    "size": 1228,
+    "mtime": "2026-06-07T11:17:22.798930+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ba375acbe19b67305980896e181586b8b2c9d007a2d90543e9e3fbcac6254198"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/abstract.md",
+    "size": 1375,
+    "mtime": "2026-06-07T11:17:22.800931+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "abd49bfd58cf0e3a7b9d9524a16ba5c329e714753eb5040313cafc2d335372b8"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/conclusion.md",
+    "size": 954,
+    "mtime": "2026-06-07T11:17:22.802481+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "09b88e57e95cea0ed491ac59977a7015b9e2e21568130bfbcebc6086f1279c4e"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/discussion.md",
+    "size": 1188,
+    "mtime": "2026-06-07T11:17:22.804500+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8c59a125fc14e8ac65ba7207fdebaf5ca17a23ecca94d7a0a3553e86d4eac3b5"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/experiments.md",
+    "size": 1537,
+    "mtime": "2026-06-07T11:17:22.807028+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3d56d43db53e2520ea07f727377d756d2747e7830bc250d50d1b84327e8c1a8c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/intro.md",
+    "size": 2084,
+    "mtime": "2026-06-07T11:17:22.809042+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "22b1aaa5696629df9ba05727db31775d133c08a931b8033918018fceef9de67c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/method.md",
+    "size": 1405,
+    "mtime": "2026-06-07T11:17:22.810041+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "03d9bc870be34b01b279562de98fb7234d45cdb66dd6f983b237be97feccc83a"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/related-work.md",
+    "size": 1200,
+    "mtime": "2026-06-07T11:17:22.812041+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9d61c6044711bb0b3b9a40080b1d529337dac820480c192fc73f7d9a0b84d209"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "static/fragments/section/title.md",
+    "size": 1024,
+    "mtime": "2026-06-07T11:17:22.813046+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9958b0cf3cb03aea4a7840411c19cca0d251642dfe9e7137c55bac207fc925cf"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/element-attributes.md",
+    "size": 688,
+    "mtime": "2026-06-07T11:15:35.936349+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f9ccaf85f43b7fa522a48ece60e3f18f10d43cb509ebd48a010eefbd0cd4f47a"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/playwright-tests.md",
+    "size": 1729,
+    "mtime": "2026-06-07T11:15:35.937887+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8da5c537cf6335c1e7590d5418b9a68c9007fd5851aa58331530e09f6ec06b78"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/request-mocking.md",
+    "size": 2269,
+    "mtime": "2026-06-07T11:15:35.939480+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "f1f6e6360309394bd457e1a9f78a66b1abd016a29d463a1e1215f168458a6fcd"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/running-code.md",
+    "size": 5883,
+    "mtime": "2026-06-07T11:15:35.941634+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "511fab7eab47171768d9f73048febe99fcbf6c7d9311984f9abeb2759ae47c07"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/session-management.md",
+    "size": 5896,
+    "mtime": "2026-06-07T11:15:35.943603+00:00",
+    "action": "skip",
+    "reason": "suspicious credential filename",
+    "sha256": ""
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/spec-driven-testing.md",
+    "size": 11883,
+    "mtime": "2026-06-07T11:15:35.945344+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "788edd013ffc0e9ce78ce03b3fd3d1e495263bf39490014c15c3139846092ab5"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/storage-state.md",
+    "size": 5473,
+    "mtime": "2026-06-07T11:15:35.947088+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4e635862dbf7d5832b0c72052f733651c94e21ca650b1e93b29d0d33ba849cc3"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/test-generation.md",
+    "size": 4719,
+    "mtime": "2026-06-07T11:15:35.948848+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "4e06520311becf84b115645dd6a088db67f81e8c928edf7a3019acc8d66592e9"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/tracing.md",
+    "size": 3579,
+    "mtime": "2026-06-07T11:15:35.950860+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "678d3e9ad0d03349315cb0a097905e3708530d8e03d66f33a2040a7b6b8b44a8"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "references/video-recording.md",
+    "size": 5528,
+    "mtime": "2026-06-07T11:15:35.952636+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "a3ce78876f25867c8f9f3b9aedc66c405facdad984d7fa270ff518fa9af89149"
+  },
+  {
+    "skill": "playwright-cli",
+    "path": "SKILL.md",
+    "size": 11651,
+    "mtime": "2026-06-07T11:15:35.934534+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e9e1015dc90240f81c16543ce2829c42108b26c08b8d62600a5312da1bd3e009"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "agents/openai.yaml",
+    "size": 244,
+    "mtime": "2026-06-07T12:27:06.290641+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "ae0d00898b936656280a201f98d225ca8ae3903dc0e04d11d944e738764dc718"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "references/workflow.md",
+    "size": 1773,
+    "mtime": "2026-06-07T12:28:38.947753+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d0c5a95c69aba65f050fe0c21e78a77c1f8e4e6897b386ffc7d3c1861bc8f99d"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "scripts/install_skills.py",
+    "size": 2199,
+    "mtime": "2026-06-07T12:30:21.821782+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "e316223140068e8b63aa0bc702866de7e386005447d1aef24f45856ab9ed68a7"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "scripts/prepare_sync.py",
+    "size": 6174,
+    "mtime": "2026-06-07T12:32:35.942460+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d3c1cea21ae15e6452c28f556b0c6c95bf383e17e43f147262a647d35fc66ee6"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "scripts/scan_skills.py",
+    "size": 7568,
+    "mtime": "2026-06-07T12:33:15.481447+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "0aced167db95ca811c644f5d6301382f82773b97cb127b6d1f70814b724d22ec"
+  },
+  {
+    "skill": "skills-backupdate",
+    "path": "SKILL.md",
+    "size": 3549,
+    "mtime": "2026-06-07T12:28:38.623274+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6d76ec9e2cc47f61ec1a8f80640069fa3051f23bc7e5976622ea7a870f2c77b7"
+  }
+]

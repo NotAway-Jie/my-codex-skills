@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skills Backupdate"
+  short_description: "Back up and document personal Codex skills"
+  default_prompt: "Use $skills-backupdate to scan, document, and prepare a private GitHub backup of my personal Codex skills."
