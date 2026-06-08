@@ -120,6 +120,12 @@ If the dry-run looks correct:
 python scripts\\install_skills.py --repo-dir . --target-skills-root "$env:USERPROFILE\\.codex\\skills"
 ```
 
+Install only selected skills with repeated `--skill` flags:
+
+```powershell
+python scripts\\install_skills.py --repo-dir . --target-skills-root "$env:USERPROFILE\\.codex\\skills" --skill skills-backupdate --dry-run
+```
+
 The installer backs up conflicting target skill folders and does not delete local-only skills.
 
 ## Pull and Apply
@@ -136,6 +142,14 @@ To write changes after reviewing the plan:
 
 ```powershell
 python scripts\\sync_skills.py apply --repo-dir . --target-skills-root "$env:USERPROFILE\\.codex\\skills" --confirm
+```
+
+## Check Upstream Sources
+
+Check detected GitHub sources without applying updates:
+
+```powershell
+python scripts\\update_check.py --skills-root "$env:USERPROFILE\\.codex\\skills"
 ```
 """
 

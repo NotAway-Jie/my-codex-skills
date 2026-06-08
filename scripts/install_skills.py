@@ -36,20 +36,18 @@ def main() -> int:
     if not source_root.exists():
         raise SystemExit(f"Missing source skills directory: {source_root}")
 
-    selected = set(args.skill)
     planned = []
-    seen = set()
+    selected = set(args.skill)
     for skill_dir in sorted(source_root.iterdir()):
         if not skill_dir.is_dir():
             continue
         if selected and skill_dir.name not in selected:
             continue
-        seen.add(skill_dir.name)
         target = target_root / skill_dir.name
         action = "add" if not target.exists() else "overwrite-with-backup"
         planned.append((action, skill_dir, target))
 
-    missing = selected - seen
+    missing = selected - {src.name for _, src, _ in planned}
     if missing:
         raise SystemExit(f"Requested skill(s) not found in repository: {', '.join(sorted(missing))}")
 

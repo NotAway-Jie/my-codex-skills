@@ -3575,20 +3575,20 @@
   {
     "skill": "skills-backupdate",
     "path": "scripts/install_skills.py",
-    "size": 2608,
-    "mtime": "2026-06-08T06:13:58.252600+00:00",
+    "size": 2606,
+    "mtime": "2026-06-08T06:59:46.827825+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "456b5bb76371982d456bb4e1775b8afc5ca7d874795dac03161db3ebe9e5f4b6"
+    "sha256": "485e0c1465b0612bcf9431cc249f2328b4f2d1094893a6dd73cd4f75a9d0e2ee"
   },
   {
     "skill": "skills-backupdate",
     "path": "scripts/prepare_sync.py",
-    "size": 7894,
-    "mtime": "2026-06-08T06:17:33.488969+00:00",
+    "size": 8297,
+    "mtime": "2026-06-08T06:59:46.426358+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "017bed3634b3e00bb4559b581b821bd7312ef45a44b91939e6a747ba0b536aca"
+    "sha256": "5e9cf86f82769321e6377b95122d827e1cd32d9d8f85582dc17f4c0e3026190f"
   },
   {
     "skill": "skills-backupdate",
