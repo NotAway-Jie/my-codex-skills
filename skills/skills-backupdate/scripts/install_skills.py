@@ -24,7 +24,7 @@ def main() -> int:
     parser.add_argument("--repo-dir", default=".")
     parser.add_argument("--target-skills-root", default=str(Path.home() / ".codex" / "skills"))
     parser.add_argument("--backup-dir", default="")
-    parser.add_argument("--skill", action="append", default=[], help="Install only this skill folder. Repeat for more.")
+    parser.add_argument("--skill", action="append", default=[], help="Install only the named skill; repeat for more.")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -36,18 +36,20 @@ def main() -> int:
     if not source_root.exists():
         raise SystemExit(f"Missing source skills directory: {source_root}")
 
-    planned = []
     selected = set(args.skill)
+    planned = []
+    seen = set()
     for skill_dir in sorted(source_root.iterdir()):
         if not skill_dir.is_dir():
             continue
         if selected and skill_dir.name not in selected:
             continue
+        seen.add(skill_dir.name)
         target = target_root / skill_dir.name
         action = "add" if not target.exists() else "overwrite-with-backup"
         planned.append((action, skill_dir, target))
 
-    missing = selected - {src.name for _, src, _ in planned}
+    missing = selected - seen
     if missing:
         raise SystemExit(f"Requested skill(s) not found in repository: {', '.join(sorted(missing))}")
 
