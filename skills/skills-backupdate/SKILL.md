@@ -54,17 +54,29 @@ python scripts\sync_skills.py apply --repo-dir . --target-skills-root "$env:USER
 
 ## Workflow
 
-1. Run `scripts/prepare_sync.py` in dry-run or normal mode.
-2. Review the risk summary in terminal and generated reports.
-3. If a private GitHub repo does not exist, check `gh auth status`.
-4. If authenticated, create the private repo with `gh repo create <account>/my-codex-skills --private`.
-5. Initialize or reuse the local repo directory, commit generated artifacts, and push only after reviewing sensitive and large-file warnings.
-6. When the user asks to check updates, use `docs/UPDATE_REPORT.md` to show GitHub-sourced skills and ask before updating any local skill.
-7. When the user asks to enable a schedule, use the app's automation tool to create the requested recurrence. Keep manual trigger available.
+Use the optimized flow for normal maintenance:
+
+```powershell
+python C:\Users\NotAway\.codex\skills\skills-backupdate\scripts\backup_flow.py --skills-root C:\Users\NotAway\.codex\skills --repo-dir C:\Users\NotAway\Documents\Codex\my-codex-skills --dry-run
+```
+
+The flow:
+
+1. Lightly checks local skills with detected GitHub sources for possible upstream updates.
+2. Reports repository-only skills and asks before installing them.
+3. Optionally installs confirmed repository-only skills.
+4. Refreshes the backup repository after checks and optional installs.
+5. Leaves commit and push to an explicit Git step after reviewing generated reports.
+
+For direct backup without the preflight flow, run `scripts/prepare_sync.py`.
+
+When the user asks to enable a schedule, use the app's automation tool to create the requested recurrence. Keep manual trigger available.
 
 ## Script Tasks
 
 - `scripts/scan_skills.py`: scan personal skills, summarize `SKILL.md`, detect GitHub source hints, hash allowed files, and flag skipped/suspicious files.
+- `scripts/update_check.py`: perform lightweight GitHub source checks without downloading full upstream repositories.
+- `scripts/backup_flow.py`: run update checks, compare repository-only skills, optionally install confirmed extras, then refresh the backup.
 - `scripts/prepare_sync.py`: build the local repository structure and copy safe skill files.
 - `scripts/install_skills.py`: install backed-up skills onto another computer with `--dry-run` and backup-before-overwrite behavior.
 - `scripts/sync_skills.py`: pull the GitHub backup repository and optionally apply skills; defaults to dry-run unless `--confirm` is passed.

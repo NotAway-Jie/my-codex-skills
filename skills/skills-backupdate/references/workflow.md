@@ -29,7 +29,26 @@ If `gh` is missing or unauthenticated, instruct the user to create a private rep
 
 ## Update Checks
 
-The scanner detects source hints but does not mutate skills. If a skill has a GitHub URL, compare local files with upstream only after user approval. Before applying an update, create a timestamped backup of the current skill folder or ensure the skill is recoverable from Git.
+The scanner detects source hints but does not mutate skills. `scripts/update_check.py` uses lightweight `git ls-remote` checks for GitHub sources. It does not shallow clone, download full upstream content, or overwrite local skills.
+
+If a possible update is reported, ask the user before any local skill update. Before applying an update, create a timestamped backup of the current skill folder or ensure the skill is recoverable from Git.
+
+## Optimized Backup Flow
+
+Use:
+
+```powershell
+python scripts\backup_flow.py --repo-dir C:\Users\NotAway\Documents\Codex\my-codex-skills --skills-root C:\Users\NotAway\.codex\skills --dry-run
+```
+
+The flow runs:
+
+1. Lightweight update check.
+2. Repository-versus-local skill comparison.
+3. Optional install of repository-only skills only when `--install-extra NAME` or `--install-all-extra` is passed.
+4. Backup refresh after checks and optional installs.
+
+Default mode minimizes token and storage use by reading only skill metadata, using remote reference checks, avoiding upstream downloads, and cleaning stale skill folders from the backup repository before copying current allowed files.
 
 ## Large and Sensitive Files
 

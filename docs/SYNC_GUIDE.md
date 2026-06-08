@@ -2,10 +2,23 @@
 
 ## First Computer
 
-1. Run `scripts/prepare_sync.py` from the `skills-backupdate` skill.
-2. Review `docs/SKILLS_INDEX.md`, `docs/UPDATE_REPORT.md`, and `manifest/file-inventory.json`.
-3. Create a private GitHub repo named `my-codex-skills` if it does not exist.
-4. Commit and push only after reviewing large and suspicious file warnings.
+1. Run `scripts/backup_flow.py` from the `skills-backupdate` skill.
+2. Review `docs/LOCAL_UPDATE_CHECK.md`, `docs/SKILLS_INDEX.md`, `docs/UPDATE_REPORT.md`, and `manifest/file-inventory.json`.
+3. Confirm any local skill updates or repository-only skill installs before applying them.
+4. Create a private GitHub repo named `my-codex-skills` if it does not exist.
+5. Commit and push only after reviewing large and suspicious file warnings.
+
+Preview the optimized workflow:
+
+```powershell
+python C:\Users\NotAway\.codex\skills\skills-backupdate\scripts\backup_flow.py --skills-root C:\Users\NotAway\.codex\skills --repo-dir C:\Users\NotAway\Documents\Codex\my-codex-skills --dry-run
+```
+
+Run the workflow:
+
+```powershell
+python C:\Users\NotAway\.codex\skills\skills-backupdate\scripts\backup_flow.py --skills-root C:\Users\NotAway\.codex\skills --repo-dir C:\Users\NotAway\Documents\Codex\my-codex-skills
+```
 
 ## Other Computer
 

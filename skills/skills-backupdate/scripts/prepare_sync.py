@@ -21,6 +21,12 @@ def write_json(path: Path, data: object) -> None:
 
 def copy_allowed_files(skills_root: Path, repo_dir: Path, inventory: list[dict], dry_run: bool) -> list[str]:
     copied = []
+    copied_skills = {entry["skill"] for entry in inventory if entry["action"] == "copy"}
+    skills_dest = repo_dir / "skills"
+    if not dry_run and skills_dest.exists():
+        for existing in skills_dest.iterdir():
+            if existing.is_dir() and existing.name not in copied_skills:
+                shutil.rmtree(existing)
     for entry in inventory:
         if entry["action"] != "copy":
             continue
@@ -82,10 +88,23 @@ def sync_guide() -> str:
 
 ## First Computer
 
-1. Run `scripts/prepare_sync.py` from the `skills-backupdate` skill.
-2. Review `docs/SKILLS_INDEX.md`, `docs/UPDATE_REPORT.md`, and `manifest/file-inventory.json`.
-3. Create a private GitHub repo named `my-codex-skills` if it does not exist.
-4. Commit and push only after reviewing large and suspicious file warnings.
+1. Run `scripts/backup_flow.py` from the `skills-backupdate` skill.
+2. Review `docs/LOCAL_UPDATE_CHECK.md`, `docs/SKILLS_INDEX.md`, `docs/UPDATE_REPORT.md`, and `manifest/file-inventory.json`.
+3. Confirm any local skill updates or repository-only skill installs before applying them.
+4. Create a private GitHub repo named `my-codex-skills` if it does not exist.
+5. Commit and push only after reviewing large and suspicious file warnings.
+
+Preview the optimized workflow:
+
+```powershell
+python C:\\Users\\NotAway\\.codex\\skills\\skills-backupdate\\scripts\\backup_flow.py --skills-root C:\\Users\\NotAway\\.codex\\skills --repo-dir C:\\Users\\NotAway\\Documents\\Codex\\my-codex-skills --dry-run
+```
+
+Run the workflow:
+
+```powershell
+python C:\\Users\\NotAway\\.codex\\skills\\skills-backupdate\\scripts\\backup_flow.py --skills-root C:\\Users\\NotAway\\.codex\\skills --repo-dir C:\\Users\\NotAway\\Documents\\Codex\\my-codex-skills
+```
 
 ## Other Computer
 
@@ -159,6 +178,8 @@ def main() -> int:
         shutil.copy2(Path(__file__).with_name("install_skills.py"), scripts_dir / "install_skills.py")
         shutil.copy2(Path(__file__).with_name("scan_skills.py"), scripts_dir / "scan_skills.py")
         shutil.copy2(Path(__file__).with_name("sync_skills.py"), scripts_dir / "sync_skills.py")
+        shutil.copy2(Path(__file__).with_name("update_check.py"), scripts_dir / "update_check.py")
+        shutil.copy2(Path(__file__).with_name("backup_flow.py"), scripts_dir / "backup_flow.py")
         shutil.copy2(Path(__file__), scripts_dir / "prepare_sync.py")
 
     print(risk_summary(data))

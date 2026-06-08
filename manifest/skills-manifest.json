@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T12:54:21.411984+00:00",
+  "generated_at": "2026-06-08T06:18:13.489723+00:00",
   "skills_root": "C:\\Users\\NotAway\\.codex\\skills",
   "thresholds": {
     "max_file_mb": 10,
@@ -199,9 +199,9 @@
       "summary": "Use this skill to maintain the user's personal Codex skills with a conservative, review-first workflow. The default repository is a private GitHub repo named `my-codex-skills`. - Manage personal skills under `C:\\Users\\NotAway\\.codex\\skills`. - Include this skill, `skills-backupdate`, in backups.",
       "path": "C:\\Users\\NotAway\\.codex\\skills\\skills-backupdate",
       "github_sources": [],
-      "total_size": 26039,
-      "copied_size": 26039,
-      "file_count": 7,
+      "total_size": 36973,
+      "copied_size": 36973,
+      "file_count": 9,
       "skipped_count": 0,
       "recorded_count": 0
     }

@@ -1,6 +1,6 @@
 # Codex Skills Index
 
-Generated at: `2026-06-07T12:54:21.411984+00:00`
+Generated at: `2026-06-08T06:18:13.489723+00:00`
 Skills root: `C:\Users\NotAway\.codex\skills`
 
 | Skill | Description | GitHub source | Files | Copied size | Skipped |
@@ -19,4 +19,4 @@ Skills root: `C:\Users\NotAway\.codex\skills`
 | `nature-reviewer` | >- | Not detected | 9 | 32527 | 0 |
 | `nature-writing` | Draft, restructure, or plan Nature-style manuscript sections from author-provided claims, results, figures, notes, or Chinese drafts. Use when the user wants to write or rebuild an abstract, introduction, related-work, method, experiments, discussion, conclusion, title, or full manuscript argument rather than only polish finished prose. Also trigger on general academic-writing requests even without the word "Nature", such as writing a paper from scratch, drafting a manuscript/section, structuring a paper, and Chinese phrasings like 学术写作、科研写作、论文写作、写论文、写paper、SCI写作、帮我写论文、搭论文框架、起草论文、写引言/摘要/讨论. | https://github.com/pengsida/learning_research | 65 | 152657 | 0 |
 | `playwright-cli` | Automate browser interactions, test web pages and work with Playwright tests. | Not detected | 11 | 53402 | 1 |
-| `skills-backupdate` | Back up, document, and synchronize the user's personal Codex skills to a private GitHub repository. Use when the user asks to scan existing skills, explain what each skill does, create or update a private skills backup repository, prepare GitHub sync artifacts, check GitHub-sourced skills for available updates, install skills on another computer, or configure a future recurring skills backup/check workflow. | Not detected | 7 | 26039 | 0 |
+| `skills-backupdate` | Back up, document, and synchronize the user's personal Codex skills to a private GitHub repository. Use when the user asks to scan existing skills, explain what each skill does, create or update a private skills backup repository, prepare GitHub sync artifacts, check GitHub-sourced skills for available updates, install skills on another computer, or configure a future recurring skills backup/check workflow. | Not detected | 9 | 36973 | 0 |
