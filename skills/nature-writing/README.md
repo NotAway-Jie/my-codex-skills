@@ -49,6 +49,8 @@ nature-writing/
     ├── paper-review.md
     ├── paragraph-flow.md
     ├── related-work.md
+    ├── upstream-sources.md
+    ├── learning_research/
     └── examples/
 ```
 

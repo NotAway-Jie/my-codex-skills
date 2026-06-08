@@ -18,6 +18,8 @@ Derived from production scripts in [figures4papers](https://github.com/ChenLiu-1
 The original figures4papers demo scripts and preview images are also bundled under
 `assets/figures4papers/` for pattern-level adaptation.
 
+The bundled upstream snapshot is tracked in `references/upstream-sources.md`.
+
 ---
 
 ## Example output gallery

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -27,6 +28,20 @@ def local_git_head(skill_path: Path) -> str:
         return ""
     code, text = run_text(["git", "rev-parse", "HEAD"], skill_path)
     return text if code == 0 else ""
+
+
+def recorded_upstream_commit(skill_path: Path, source: str) -> str:
+    path = skill_path / "references" / "upstream-sources.md"
+    if not path.exists():
+        return ""
+    text = path.read_text(encoding="utf-8", errors="replace")
+    blocks = re.split(r"\n##\s+", text)
+    for block in blocks:
+        if source not in block:
+            continue
+        match = re.search(r"Updated commit:\s*([0-9a-fA-F]{7,40})", block)
+        return match.group(1) if match else ""
+    return ""
 
 
 def remote_head(source: str) -> tuple[str, str]:
@@ -55,6 +70,7 @@ def check_updates(skills_root: Path, max_file_mb: int, max_skill_mb: int) -> dic
             continue
         for source in skill["github_sources"]:
             remote, error = remote_head(source)
+            recorded = recorded_upstream_commit(skill_path, source)
             status = "source_detected"
             note = "Remote HEAD checked; compare manually before updating."
             if error:
@@ -63,6 +79,9 @@ def check_updates(skills_root: Path, max_file_mb: int, max_skill_mb: int) -> dic
             elif local_head and remote and local_head == remote:
                 status = "same_head"
                 note = "Local git HEAD matches remote HEAD."
+            elif recorded and remote and recorded == remote:
+                status = "same_recorded_commit"
+                note = "Recorded upstream commit matches remote HEAD."
             elif remote:
                 status = "possible_update"
             checks.append({
@@ -70,6 +89,7 @@ def check_updates(skills_root: Path, max_file_mb: int, max_skill_mb: int) -> dic
                 "status": status,
                 "sources": [source],
                 "local_head": local_head,
+                "recorded_upstream_commit": recorded,
                 "remote_head": remote,
                 "note": note,
             })

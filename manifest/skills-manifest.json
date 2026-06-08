@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T07:00:21.296029+00:00",
+  "generated_at": "2026-06-08T07:17:56.441989+00:00",
   "skills_root": "C:\\Users\\NotAway\\.codex\\skills",
   "thresholds": {
     "max_file_mb": 10,
@@ -93,11 +93,11 @@
       "github_sources": [
         "https://github.com/ChenLiu-1996/figures4papers"
       ],
-      "total_size": 30758822,
-      "copied_size": 260811,
-      "file_count": 98,
+      "total_size": 30148990,
+      "copied_size": 292012,
+      "file_count": 105,
       "skipped_count": 0,
-      "recorded_count": 53
+      "recorded_count": 52
     },
     {
       "folder": "nature-paper2ppt",
@@ -173,9 +173,9 @@
       "github_sources": [
         "https://github.com/pengsida/learning_research"
       ],
-      "total_size": 152657,
-      "copied_size": 152657,
-      "file_count": 65,
+      "total_size": 172611,
+      "copied_size": 172611,
+      "file_count": 70,
       "skipped_count": 0,
       "recorded_count": 0
     },
@@ -199,8 +199,8 @@
       "summary": "Use this skill to maintain the user's personal Codex skills with a conservative, review-first workflow. The default repository is a private GitHub repo named `my-codex-skills`. - Manage personal skills under `C:\\Users\\NotAway\\.codex\\skills`. - Include this skill, `skills-backupdate`, in backups.",
       "path": "C:\\Users\\NotAway\\.codex\\skills\\skills-backupdate",
       "github_sources": [],
-      "total_size": 37374,
-      "copied_size": 37374,
+      "total_size": 38177,
+      "copied_size": 38177,
       "file_count": 9,
       "skipped_count": 0,
       "recorded_count": 0

@@ -1243,9 +1243,18 @@
   },
   {
     "skill": "nature-figure",
+    "path": "assets/figures4papers/.gitignore",
+    "size": 146,
+    "mtime": "2026-06-08T07:09:00.746784+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9ecb520e05cdc53565b072538636896b7bed66dc19f806937c7be1bea509c3f8"
+  },
+  {
+    "skill": "nature-figure",
     "path": "assets/figures4papers/assets/Dispersion_motivation.png",
     "size": 837657,
-    "mtime": "2026-06-07T11:17:21.976610+00:00",
+    "mtime": "2026-06-08T07:09:00.763958+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "04c2f6ab2bedf8e6a19449f0260ef36f8ab736a93dccf19458cdc80d4b593547"
@@ -1254,7 +1263,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/Dispersion_observation.png",
     "size": 808992,
-    "mtime": "2026-06-07T11:17:21.985130+00:00",
+    "mtime": "2026-06-08T07:09:00.779817+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "59846b700abcf89c2779abce27b5d667637f6429cf4a52ca1892c687359f2aa7"
@@ -1263,7 +1272,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/Dispersion_observation_distillation.png",
     "size": 616612,
-    "mtime": "2026-06-07T11:17:21.995871+00:00",
+    "mtime": "2026-06-08T07:09:00.792559+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "134b0fcb07dbab1baa769854100fc9791b846f6f6c50591485564fc8492b6660"
@@ -1272,7 +1281,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/ImmunoStruct_contrastive.png",
     "size": 502211,
-    "mtime": "2026-06-07T11:17:22.002952+00:00",
+    "mtime": "2026-06-08T07:09:00.804605+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "c2590ba1ecac5e1d0976df3be6e9fa4056dcdd78670201c6db461e3e4f18b0d0"
@@ -1281,7 +1290,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/ImmunoStruct_results_CEDAR.png",
     "size": 1281557,
-    "mtime": "2026-06-07T11:17:22.016484+00:00",
+    "mtime": "2026-06-08T07:09:00.825459+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "f1f564e0c7221f24f4bffe14cce5b5df6786c75f7dfcf1b6d2be7566820050ec"
@@ -1290,7 +1299,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/ImmunoStruct_results_IEDB.png",
     "size": 956273,
-    "mtime": "2026-06-07T11:17:22.029272+00:00",
+    "mtime": "2026-06-08T07:09:00.843035+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "2768b1a5ef0c501dc03c53c594a28e028df2cd57b51c4fd80c9a57906f6195c5"
@@ -1299,7 +1308,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/ImmunoStruct_schematic.png",
     "size": 972870,
-    "mtime": "2026-06-07T11:17:22.045234+00:00",
+    "mtime": "2026-06-08T07:09:00.860299+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "2d3ddf56ae63b34ead168cb95b484881f934e61204a8740c67d6dc1678bbaf7d"
@@ -1308,7 +1317,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/assets/RNAGenScape_schematic.png",
     "size": 1000298,
-    "mtime": "2026-06-07T11:17:22.060343+00:00",
+    "mtime": "2026-06-08T07:09:00.877849+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "ef85b974a990b74c230dc1a80d3bb357f4f8a430d13c12c6120927c9fb797287"
@@ -1317,7 +1326,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/figures/brute_force.png",
     "size": 1753162,
-    "mtime": "2026-06-07T11:17:22.330024+00:00",
+    "mtime": "2026-06-08T07:09:01.214283+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "abb63055b0d49edbe9002e820294a622db1429d31b1d2446340036cf1db92607"
@@ -1326,7 +1335,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/figures/correctness_by_category.png",
     "size": 655498,
-    "mtime": "2026-06-07T11:17:22.342073+00:00",
+    "mtime": "2026-06-08T07:09:01.228861+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "bc2cc547f15430bc9af2ebdfba0b8cf1c73702e8fbea35d8b2953cc960da117b"
@@ -1335,7 +1344,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/figures/correctness_by_subcategory.png",
     "size": 1100554,
-    "mtime": "2026-06-07T11:17:22.357089+00:00",
+    "mtime": "2026-06-08T07:09:01.246383+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "b6639239da2fa9f2bec3eb096ec0db3942965ed38e57446de4b8a240a77c02c6"
@@ -1344,7 +1353,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/figures/rewriting.png",
     "size": 410105,
-    "mtime": "2026-06-07T11:17:22.364866+00:00",
+    "mtime": "2026-06-08T07:09:01.256169+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "0460f09210bc23c272602ecb8b3fcf3984f42fc055df3b0e4982eab50303607f"
@@ -1353,7 +1362,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/figures/selfcorrection_math.png",
     "size": 611488,
-    "mtime": "2026-06-07T11:17:22.373895+00:00",
+    "mtime": "2026-06-08T07:09:01.270753+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "71133ed59cc16f8c36a4e8b2325575d185f36a8534c29579d2eff177544e9e53"
@@ -1362,7 +1371,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/plot_brute_force.py",
     "size": 10429,
-    "mtime": "2026-06-07T11:17:22.374911+00:00",
+    "mtime": "2026-06-08T07:09:01.273750+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "99f285d252b45ca6fcc1e4458bc74df334b251f1d7b9f96168a63020f73386a0"
@@ -1371,7 +1380,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/plot_correctness_by_category.py",
     "size": 6535,
-    "mtime": "2026-06-07T11:17:22.376918+00:00",
+    "mtime": "2026-06-08T07:09:01.279257+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "6b276da17edd8a715aae1e11792967cf0de118b9718ec015ac277c591b3a9eb3"
@@ -1380,7 +1389,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/plot_correctness_by_subcategory.py",
     "size": 6636,
-    "mtime": "2026-06-07T11:17:22.379197+00:00",
+    "mtime": "2026-06-08T07:09:01.280265+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "4c8a8ac067ae410132bd45991916b909168355fa23e914d833568473283019eb"
@@ -1389,7 +1398,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/plot_rewriting.py",
     "size": 3799,
-    "mtime": "2026-06-07T11:17:22.381197+00:00",
+    "mtime": "2026-06-08T07:09:01.283266+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "5a3e768f34d3212f80e9a08d3f22529df78346a8fceb430bc9a37bdef9efc020"
@@ -1398,7 +1407,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_brainteaser/plot_selfcorrection_math.py",
     "size": 4114,
-    "mtime": "2026-06-07T11:17:22.383339+00:00",
+    "mtime": "2026-06-08T07:09:01.285522+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "b22f1ac50b5f4d31efe172c8a3cf4798d51cf84bbea950bb28332a4f620e73eb"
@@ -1407,7 +1416,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_CellSpliceNet/figures/ablation.png",
     "size": 355284,
-    "mtime": "2026-06-07T11:17:22.067404+00:00",
+    "mtime": "2026-06-08T07:09:00.890370+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "3373085ababf07481a352fe542fd79a58701e0e052c5593ca56984008ddad027"
@@ -1416,7 +1425,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_CellSpliceNet/figures/comparison.png",
     "size": 813084,
-    "mtime": "2026-06-07T11:17:22.079828+00:00",
+    "mtime": "2026-06-08T07:09:00.904548+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "49d4ebc7d1867918b9d0167d8e821d8ce7845459a9da55a6fefcef87eeb7024d"
@@ -1425,7 +1434,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_CellSpliceNet/plot_ablation.py",
     "size": 3050,
-    "mtime": "2026-06-07T11:17:22.080825+00:00",
+    "mtime": "2026-06-08T07:09:00.908054+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "507d1e6c6531e335e39608c4d6191eae3cbba539459924f1de4ed457443eae0f"
@@ -1434,7 +1443,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_CellSpliceNet/plot_comparison.py",
     "size": 4018,
-    "mtime": "2026-06-07T11:17:22.082824+00:00",
+    "mtime": "2026-06-08T07:09:00.911072+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "415c8df60756bc1dd6ddbd711def7c32df85f07e7841209bcf97cc2e78a9d1eb"
@@ -1443,7 +1452,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/diffusion_swiss_roll.py",
     "size": 3642,
-    "mtime": "2026-06-07T11:17:22.084823+00:00",
+    "mtime": "2026-06-08T07:09:00.915076+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "5566756d073cd7ecaa9cdc5ff885ba9affd8416251f190a4cf8c0e80e6e8d51d"
@@ -1452,7 +1461,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/diffusion_swiss_roll.png",
     "size": 1794980,
-    "mtime": "2026-06-07T11:17:22.108735+00:00",
+    "mtime": "2026-06-08T07:09:00.946898+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "9f02fa4603dae748e3745b95b0ed252f2ba386da6101dc1be6c4a2a886c78eb0"
@@ -1461,7 +1470,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_GeneRegulatory.pdf",
     "size": 24757,
-    "mtime": "2026-06-07T11:17:22.109739+00:00",
+    "mtime": "2026-06-08T07:09:00.950475+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "30b1efaf3293a240c6646f076a14f702bb3556fd10a1fb791c23deb90d3ff40e"
@@ -1470,7 +1479,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_GeneRegulatory.png",
     "size": 287419,
-    "mtime": "2026-06-07T11:17:22.115187+00:00",
+    "mtime": "2026-06-08T07:09:00.957988+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "96075eb70285f4f72869b99398c9a923336fbc3a5188883d9e8415e1cc027a46"
@@ -1479,7 +1488,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_Trajectory.pdf",
     "size": 19791,
-    "mtime": "2026-06-07T11:17:22.117860+00:00",
+    "mtime": "2026-06-08T07:09:00.960003+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "465050a8f8c8be85eb3e8d17c16eaef3df50acc41b2bd212d2b6176d97efc78c"
@@ -1488,7 +1497,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/fig2_comparison_Trajectory.png",
     "size": 388293,
-    "mtime": "2026-06-07T11:17:22.125113+00:00",
+    "mtime": "2026-06-08T07:09:00.969808+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "91b214f745a99f1f2b472ddae7661dfa2d9241791768767180219315b89047ec"
@@ -1497,7 +1506,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/figX_comparison_Ablation.pdf",
     "size": 19233,
-    "mtime": "2026-06-07T11:17:22.125113+00:00",
+    "mtime": "2026-06-08T07:09:00.973810+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "d4c7b8013a24aa830a0f83b8cf5ffd917a932458e6a265f4b5f29e9a4389960a"
@@ -1506,7 +1515,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/figures/figX_comparison_Ablation.png",
     "size": 328952,
-    "mtime": "2026-06-07T11:17:22.133164+00:00",
+    "mtime": "2026-06-08T07:09:00.981331+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "4f7b7b4b01a1b498540850ddabc217fd964eb37142e99a6ee6b5c26cf12aba7f"
@@ -1515,7 +1524,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/plot_comparison_Ablation.py",
     "size": 2570,
-    "mtime": "2026-06-07T11:17:22.135166+00:00",
+    "mtime": "2026-06-08T07:09:00.984328+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "4b071ac77be68def7acd8a5b1b73e5384659ae6293c39ee24c6a778173651ea8"
@@ -1524,7 +1533,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/plot_comparison_GeneRegulatory.py",
     "size": 3096,
-    "mtime": "2026-06-07T11:17:22.137507+00:00",
+    "mtime": "2026-06-08T07:09:00.986323+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "1f260fbb6eca33c7f20ab8ca61e5119cb78e39acebb0b364a3eaa3b914b23836"
@@ -1533,7 +1542,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Cflows/plot_comparison_Trajectory.py",
     "size": 3015,
-    "mtime": "2026-06-07T11:17:22.139519+00:00",
+    "mtime": "2026-06-08T07:09:00.988967+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "d6a81cb5ea7c0db80b42ede01ab5c06fc61ae1993e6f7d7078b851337fca8ac9"
@@ -1542,7 +1551,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Dispersion/figures/idea.png",
     "size": 384839,
-    "mtime": "2026-06-07T11:17:22.147043+00:00",
+    "mtime": "2026-06-08T07:09:01.000240+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "e805fb0f7ccdf8aa3ae764e8156cf6b61b6d56ef7dded0fc7556566e316649a3"
@@ -1551,7 +1560,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Dispersion/figures/illustration.png",
     "size": 762950,
-    "mtime": "2026-06-07T11:17:22.157572+00:00",
+    "mtime": "2026-06-08T07:09:01.012756+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "2528309a41ba6edab9c377a2304c144813c0e99565239a849c427ab00a14643b"
@@ -1560,7 +1569,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Dispersion/plot_idea.py",
     "size": 2508,
-    "mtime": "2026-06-07T11:17:22.159590+00:00",
+    "mtime": "2026-06-08T07:09:01.014756+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "77974b680f87fcb237f92526c4bccc031a93cdf5cc9cbe234d97a4a58cc80789"
@@ -1569,34 +1578,16 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_Dispersion/plot_illustration.py",
     "size": 15876,
-    "mtime": "2026-06-07T11:17:22.161584+00:00",
+    "mtime": "2026-06-08T07:09:01.016757+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "6742ee93ecd484a0dbe1babe59a2cac5b050e099553d397cb2108cab4685e2e4"
   },
   {
     "skill": "nature-figure",
-    "path": "assets/figures4papers/figure_FPGM/figures/freq_prior.png",
-    "size": 641033,
-    "mtime": "2026-06-07T11:17:22.174628+00:00",
-    "action": "record",
-    "reason": "binary or asset file",
-    "sha256": "0f8f77c4de67324cf7ddd7ee370a8ef39f10417b241142b9bacbc830677ff0fe"
-  },
-  {
-    "skill": "nature-figure",
-    "path": "assets/figures4papers/figure_FPGM/plot_freq_prior.py",
-    "size": 6723,
-    "mtime": "2026-06-07T11:17:22.177458+00:00",
-    "action": "copy",
-    "reason": "allowed",
-    "sha256": "a40da3a3f36660755eb7b08e7ecabff1d7b477d99a68b417a517fc95b7c05b25"
-  },
-  {
-    "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_ablation_Cancer.png",
     "size": 816715,
-    "mtime": "2026-06-07T11:17:22.190604+00:00",
+    "mtime": "2026-06-08T07:09:01.034619+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "46c9e05df9d7c941628791ac447c5d84a29d942896ce3a13d00432e9f5c720ef"
@@ -1605,7 +1596,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_ablation_IEDB.png",
     "size": 1160225,
-    "mtime": "2026-06-07T11:17:22.204659+00:00",
+    "mtime": "2026-06-08T07:09:01.054657+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "854fe931bde6ca6c50eda6b147907f00d8f10d74c3b40bad1714b903bf945f00"
@@ -1614,7 +1605,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_comparison_Cancer.png",
     "size": 799770,
-    "mtime": "2026-06-07T11:17:22.217716+00:00",
+    "mtime": "2026-06-08T07:09:01.070204+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "0c35bb8a1fb21d5e30e16be152fc92959af580d9e24f04ccc61444adba8c7aa2"
@@ -1623,7 +1614,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ImmunoStruct/figures/bars_comparison_IEDB.png",
     "size": 757551,
-    "mtime": "2026-06-07T11:17:22.227354+00:00",
+    "mtime": "2026-06-08T07:09:01.083728+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "18a52f7a910fe9c9ff06015f5a1e63527458a86c847f573eb96ba254d4645ac1"
@@ -1632,7 +1623,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ImmunoStruct/plot_bars.py",
     "size": 7923,
-    "mtime": "2026-06-07T11:17:22.229367+00:00",
+    "mtime": "2026-06-08T07:09:01.085731+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "820acbc976b88cc713908a4fa0c8f57ad63a9a05478224dcde80048c71b753ea"
@@ -1641,7 +1632,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ImmunoStruct/raw_data.py",
     "size": 4584,
-    "mtime": "2026-06-07T11:17:22.230360+00:00",
+    "mtime": "2026-06-08T07:09:01.088233+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "5204c9833b29883872bdfc15f5168b548b67a29e1de9bdae2f0a887be5889d62"
@@ -1650,7 +1641,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ophthal_review/figures/composition_heatmap.png",
     "size": 279533,
-    "mtime": "2026-06-07T11:17:22.392996+00:00",
+    "mtime": "2026-06-08T07:09:01.296056+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "38a9c4e8fd691cbd7dcb4f5b5abb69398b4974d32cad19a4a33819db1cb34f3a"
@@ -1659,7 +1650,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ophthal_review/figures/trend_by_month.png",
     "size": 364102,
-    "mtime": "2026-06-07T11:17:22.398939+00:00",
+    "mtime": "2026-06-08T07:09:01.305930+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "66fe0f27f44697547b6cb219ff90696f54a6fef48984c9578ace258e0ebce4d4"
@@ -1668,7 +1659,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ophthal_review/plot_composition.py",
     "size": 3112,
-    "mtime": "2026-06-07T11:17:22.399938+00:00",
+    "mtime": "2026-06-08T07:09:01.307942+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "b3d5f55eebfee6b8cfb6748e1eb0a150e926b4a4f918a960a9b9421513514aad"
@@ -1677,7 +1668,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_ophthal_review/plot_trend.py",
     "size": 5655,
-    "mtime": "2026-06-07T11:17:22.400939+00:00",
+    "mtime": "2026-06-08T07:09:01.310373+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "41232f15306ed83081ae695da341c6d78e74dcefd46b32b3f313245dde15db98"
@@ -1686,7 +1677,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/figures/manifold.png",
     "size": 108276,
-    "mtime": "2026-06-07T11:17:22.234361+00:00",
+    "mtime": "2026-06-08T07:09:01.095246+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "83e55ca23d8aa2fa591a46d3fe4f9d6ac11e17cbc9657e2615d883ea6deb937c"
@@ -1695,7 +1686,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/figures/manifold_holes.png",
     "size": 1019896,
-    "mtime": "2026-06-07T11:17:22.246122+00:00",
+    "mtime": "2026-06-08T07:09:01.112440+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "2ad2be6fa9c9165e800dba4d997850c9a426cbe9b441c78b76518335bcc3f948"
@@ -1704,7 +1695,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/figures/results_comparison_optimization.png",
     "size": 850446,
-    "mtime": "2026-06-07T11:17:22.258166+00:00",
+    "mtime": "2026-06-08T07:09:01.129164+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "4cf8539d0521b7268f0227b56cecddf2f70c1bb4bbcf9b5e3be886e95a54927a"
@@ -1713,7 +1704,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/figures/results_comparison_speed.png",
     "size": 92362,
-    "mtime": "2026-06-07T11:17:22.261622+00:00",
+    "mtime": "2026-06-08T07:09:01.132951+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "cd1fec84f615a43dbe91cc94bfbb94fe07e086fdd5d8191fbff2ec990e38d4f5"
@@ -1722,7 +1713,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/figures/results_sweep.png",
     "size": 142120,
-    "mtime": "2026-06-07T11:17:22.266216+00:00",
+    "mtime": "2026-06-08T07:09:01.137949+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "4db30b32b65e6b7160ebe025993c2ffdaf6e240d836c253419e91649d3da8deb"
@@ -1731,7 +1722,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/plot_comparison.py",
     "size": 11464,
-    "mtime": "2026-06-07T11:17:22.267862+00:00",
+    "mtime": "2026-06-08T07:09:01.140462+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "a5481497f5f3f89f7c4cbf3ec577a25a02f1015c3a4134e9a7906cf2c3ab553d"
@@ -1740,7 +1731,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/plot_hole_manifold.py",
     "size": 2629,
-    "mtime": "2026-06-07T11:17:22.270053+00:00",
+    "mtime": "2026-06-08T07:09:01.143463+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "7965ca632778f94dd63ae8d233a61d1a9e85d8ed2e7b63b338d652b6b2b5ff80"
@@ -1749,7 +1740,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/plot_manifold.py",
     "size": 1872,
-    "mtime": "2026-06-07T11:17:22.272427+00:00",
+    "mtime": "2026-06-08T07:09:01.146463+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "d064c03cd3109b5332be069d6a3d88b0e6a04121966a18e8f74818d3bbf281dd"
@@ -1758,7 +1749,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_RNAGenScape/plot_sweep.py",
     "size": 2950,
-    "mtime": "2026-06-07T11:17:22.274540+00:00",
+    "mtime": "2026-06-08T07:09:01.147973+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "5730459c850f58e2f810c38755d09f1e3322286130fc4fa0803c5f11cabfe7ad"
@@ -1767,7 +1758,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_VIGIL/figures/comparison_posttraining.png",
     "size": 249289,
-    "mtime": "2026-06-07T11:17:22.280960+00:00",
+    "mtime": "2026-06-08T07:09:01.158035+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "a6f2e75e7d8361754445d86ce04386b5764a46bf2cbc94e8df0c75ecf1bab142"
@@ -1776,7 +1767,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_VIGIL/figures/comparison_radar.png",
     "size": 809841,
-    "mtime": "2026-06-07T11:17:22.293828+00:00",
+    "mtime": "2026-06-08T07:09:01.175037+00:00",
     "action": "record",
     "reason": "binary or asset file",
     "sha256": "d6613715d9d4564fb0c7354430b227d43c9df04032e32b346601971381e5ba2d"
@@ -1785,7 +1776,7 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_VIGIL/plot_comparison_radar.py",
     "size": 7570,
-    "mtime": "2026-06-07T11:17:22.295970+00:00",
+    "mtime": "2026-06-08T07:09:01.178038+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "2d4f16fa3f2e9e224badc728fc7483cdc7dae39f35e71ec557995a6bd2b25971"
@@ -1794,10 +1785,73 @@
     "skill": "nature-figure",
     "path": "assets/figures4papers/figure_VIGIL/plot_posttraining.py",
     "size": 3030,
-    "mtime": "2026-06-07T11:17:22.298885+00:00",
+    "mtime": "2026-06-08T07:09:01.180531+00:00",
     "action": "copy",
     "reason": "allowed",
     "sha256": "7ae5b3e278f08edfb9f6342d72873b0d4a4e58da581231179568db0772b2c8fd"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/README.md",
+    "size": 10328,
+    "mtime": "2026-06-08T07:09:00.748292+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "fe3ef85e1ce3624e886341661f9fea17f2e618bc72f8b778692dbe4df184574b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/scientific-figure-making/references/api.md",
+    "size": 5628,
+    "mtime": "2026-06-08T07:09:01.321172+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "6a6e0c85165b71492189cf6507f4f7c1b27b8243d3aaec3e19df5986547cb39a"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/scientific-figure-making/references/common-patterns.md",
+    "size": 3149,
+    "mtime": "2026-06-08T07:09:01.325110+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "8ffc2563d8e78fc978204d02c9dbb3d3a8c19f4e05930c613755747c042f4a5b"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/scientific-figure-making/references/demos.md",
+    "size": 2558,
+    "mtime": "2026-06-08T07:09:01.326776+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "89c1499a4f315b3a4320959231f14238354666d9f393605a618bec97ff96cfb1"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/scientific-figure-making/references/design-theory.md",
+    "size": 6876,
+    "mtime": "2026-06-08T07:09:01.330316+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "d5f6bfd03cdd34d8b4c2f345b4d630985a0a1e17dcd4dd6631d60b896386fcf8"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/scientific-figure-making/references/tutorials.md",
+    "size": 6546,
+    "mtime": "2026-06-08T07:09:01.332837+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "250130e779bb3684de054e370b6afa7cca726a2f67a388c15dd3eb7d075b0bb9"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "assets/figures4papers/scientific-figure-making/SKILL.md",
+    "size": 2280,
+    "mtime": "2026-06-08T07:09:01.316148+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "3a0a878cab0f8efb34723e0edcbbeef45950591bf1badbe4a75bb8d0741799cb"
   },
   {
     "skill": "nature-figure",
@@ -1865,11 +1919,11 @@
   {
     "skill": "nature-figure",
     "path": "README.md",
-    "size": 21889,
-    "mtime": "2026-06-07T11:17:21.898844+00:00",
+    "size": 21966,
+    "mtime": "2026-06-08T07:15:03.001670+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "69301a9d8a4e99c59ffaf02ecac2e15ebbf47de5e75ee6e7bf104caf8166f41b"
+    "sha256": "9f82e9c54fdddf7c33fd1e4267cfc7c35a6e2d12422469c89731bc683cedee54"
   },
   {
     "skill": "nature-figure",
@@ -1978,6 +2032,15 @@
     "action": "copy",
     "reason": "allowed",
     "sha256": "ba6b3e5d467eacc607312dafcbf3ef4397ecbb5092f67565cf651ac9302cf418"
+  },
+  {
+    "skill": "nature-figure",
+    "path": "references/upstream-sources.md",
+    "size": 336,
+    "mtime": "2026-06-08T07:15:01.579081+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "bd18faf2ba2bfa809b57d06256198c5816ed107cb3bcaf8e672bd7f9de16b443"
   },
   {
     "skill": "nature-figure",
@@ -2882,11 +2945,11 @@
   {
     "skill": "nature-writing",
     "path": "README.md",
-    "size": 2345,
-    "mtime": "2026-06-07T11:17:22.695478+00:00",
+    "size": 2407,
+    "mtime": "2026-06-08T07:15:03.880283+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "2d155e60c15d0c4ae765f4c861cc156ee62fc4912434f8a121c4b4abd1195eb0"
+    "sha256": "dc4d7f5131bdf49641d6ed32a2ff5b1f760a61199f21465b7c9a8e29ca8d3dbb"
   },
   {
     "skill": "nature-writing",
@@ -3205,6 +3268,42 @@
   },
   {
     "skill": "nature-writing",
+    "path": "references/learning_research/changelog",
+    "size": 7752,
+    "mtime": "2026-06-08T07:09:02.031512+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "9595d81c3c76fb654cce821ba2857e30cfa06424a2cdccc999bc58c0ad345d93"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/learning_research/getting_advanced_in_research.md",
+    "size": 2329,
+    "mtime": "2026-06-08T07:09:02.032513+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "245f65814621a05669deb9ff54f6d23bb0471d0728161fa543b6463452fb111c"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/learning_research/getting_started_in_research.md",
+    "size": 4341,
+    "mtime": "2026-06-08T07:09:02.033513+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "29cc6c4432373d4a2d7f6a0176eb34d40421f6a2be54adb6c8ba94a2de9f2138"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/learning_research/README.md",
+    "size": 5117,
+    "mtime": "2026-06-08T07:09:02.029519+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "1fa3dd45ecd04a129483e97f7949cfa605abad240067508581c8df77eff37912"
+  },
+  {
+    "skill": "nature-writing",
     "path": "references/method.md",
     "size": 6452,
     "mtime": "2026-06-07T11:17:22.766755+00:00",
@@ -3247,6 +3346,15 @@
     "action": "copy",
     "reason": "allowed",
     "sha256": "9eaf376d893bf7c381457f61a83858b92767681d237f0863f02abae021eaee82"
+  },
+  {
+    "skill": "nature-writing",
+    "path": "references/upstream-sources.md",
+    "size": 353,
+    "mtime": "2026-06-08T07:15:02.150291+00:00",
+    "action": "copy",
+    "reason": "allowed",
+    "sha256": "23f2768c72d5c70416255bd155f6cd1bbf81a3cedabfe680a5132a9328476536"
   },
   {
     "skill": "nature-writing",
@@ -3611,11 +3719,11 @@
   {
     "skill": "skills-backupdate",
     "path": "scripts/update_check.py",
-    "size": 4371,
-    "mtime": "2026-06-08T06:14:45.616280+00:00",
+    "size": 5174,
+    "mtime": "2026-06-08T07:15:54.963266+00:00",
     "action": "copy",
     "reason": "allowed",
-    "sha256": "d87d65cb61ff53872b138f0acfbfd089d32a6773ab49a88e78bec2c436f9b702"
+    "sha256": "92d9eec320b908a12f589ae50ea79b2a3b48c4f7c920d2c4254c26754741be0f"
   },
   {
     "skill": "skills-backupdate",

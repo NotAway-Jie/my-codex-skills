@@ -1,6 +1,6 @@
 # Skills Update Report
 
-Generated at: `2026-06-08T07:00:21.296029+00:00`
+Generated at: `2026-06-08T07:17:56.441989+00:00`
 
 This report identifies possible GitHub sources. It does not apply updates automatically.
 
@@ -31,7 +31,7 @@ This report identifies possible GitHub sources. It does not apply updates automa
 ## nature-figure
 - Source: https://github.com/ChenLiu-1996/figures4papers
 - Status: source detected; compare upstream only after user confirmation.
-- Review: 0 skipped, 53 recorded-only files.
+- Review: 0 skipped, 52 recorded-only files.
 
 ## nature-paper2ppt
 - Source: not detected.
